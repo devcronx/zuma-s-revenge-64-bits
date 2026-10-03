@@ -264,7 +264,9 @@ namespace SexyFramework.Drivers.App
 
 		public override void Shutdown()
 		{
+			#pragma warning disable CS0619
 			this.mWP7Game.Exit();
+			#pragma warning restore CS0619
 		}
 
 		public override void DoExit(int theCode)

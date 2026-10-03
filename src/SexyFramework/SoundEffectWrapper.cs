@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Xna.Framework.Media;
 
 namespace SexyFramework
@@ -22,24 +22,21 @@ namespace SexyFramework
 
 		public void play()
 		{
-			MediaPlayer.Play(this.m_Song);
+			// iOS: MediaPlayer not available, no-op for now
 			this.m_isPlaying = true;
 		}
 
 		public void stop()
 		{
-			MediaPlayer.Stop();
 			this.m_isPlaying = false;
 		}
 
 		public void setLoop(bool isLooped)
 		{
-			MediaPlayer.IsRepeating = isLooped;
 		}
 
 		public void setVolume(float volume)
 		{
-			MediaPlayer.Volume = Common.CaculatePowValume(volume);
 		}
 
 		public Song m_Song;

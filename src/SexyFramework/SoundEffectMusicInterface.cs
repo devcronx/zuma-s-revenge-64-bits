@@ -15,24 +15,24 @@ namespace SexyFramework
 
 		public SoundEffectMusicInterface()
 		{
-			this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
-			MediaPlayer.MediaStateChanged += new EventHandler<EventArgs>(this.OnMediaPlayerStateChanged);
+			this.m_isUserMusicOn = false; // iOS: no-op
+			// iOS: no-op
 		}
 
 		public override bool isPlayingUserMusic()
 		{
-			return !MediaPlayer.GameHasControl;
+			return false; // iOS: no-op
 		}
 
 		public override void stopUserMusic()
 		{
 			this.m_PauseByFunction = true;
-			MediaPlayer.Pause();
+			// iOS: no-op
 			if (this.m_CurrSong != null)
 			{
 				this.m_CurrSong.play();
-				MediaPlayer.IsRepeating = !this.m_CurrSong.mStopOnFade;
-				MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+				// iOS: no-op
+				// iOS: no-op
 			}
 		}
 
@@ -90,7 +90,7 @@ namespace SexyFramework
 				{
 					this.m_SoundDict[theSongId].play();
 					MediaPlayer.IsRepeating = !noLoop;
-					MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+					// iOS: no-op
 				}
 			}
 		}
@@ -102,7 +102,7 @@ namespace SexyFramework
 			{
 				return;
 			}
-			MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+			// iOS: no-op
 		}
 
 		public override void StopAllMusic()
@@ -131,7 +131,7 @@ namespace SexyFramework
 			if (this.m_CurrSong != null)
 			{
 				this.m_PauseByFunction = true;
-				MediaPlayer.Pause();
+				// iOS: no-op
 			}
 		}
 
@@ -149,8 +149,8 @@ namespace SexyFramework
 				if (this.m_CurrSong.m_Song.Name != activeSong.Name)
 				{
 					this.m_CurrSong.play();
-					MediaPlayer.IsRepeating = !this.m_CurrSong.mStopOnFade;
-					MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+					// iOS: no-op
+					// iOS: no-op
 					SongChangedEventArgs songChangedEventArgs = new SongChangedEventArgs();
 					songChangedEventArgs.songID = this.m_CurrSongID;
 					songChangedEventArgs.loop = !this.m_CurrSong.mStopOnFade;
@@ -202,7 +202,7 @@ namespace SexyFramework
 				this.mCurState = MusicInterface.EMusicInterfaceState.State_None;
 				this.m_onDeactive = false;
 				MediaPlayer.Resume();
-				this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
+				this.m_isUserMusicOn = false; // iOS: no-op
 			}
 			else if (this.mCurState == MusicInterface.EMusicInterfaceState.State_UserMusicStoppedInGame && !this.m_onDeactive && !this.m_onServiceDeactive && this.mUpdateCount > 100)
 			{
@@ -217,8 +217,8 @@ namespace SexyFramework
 				if (this.m_CurrSong.m_Song.Name != activeSong.Name)
 				{
 					this.m_CurrSong.play();
-					MediaPlayer.IsRepeating = !this.m_CurrSong.mStopOnFade;
-					MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+					// iOS: no-op
+					// iOS: no-op
 					SongChangedEventArgs songChangedEventArgs = new SongChangedEventArgs();
 					songChangedEventArgs.songID = this.m_CurrSongID;
 					songChangedEventArgs.loop = !this.m_CurrSong.mStopOnFade;
@@ -231,7 +231,7 @@ namespace SexyFramework
 				{
 					MediaPlayer.Resume();
 				}
-				this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
+				this.m_isUserMusicOn = false; // iOS: no-op
 			}
 			else if (this.mCurState == MusicInterface.EMusicInterfaceState.State_GameMusicStopedInGame && !this.m_onDeactive && !this.m_onServiceDeactive && this.mUpdateCount > 1)
 			{
@@ -246,8 +246,8 @@ namespace SexyFramework
 				if (this.m_CurrSong.m_Song.Name != activeSong2.Name)
 				{
 					this.m_CurrSong.play();
-					MediaPlayer.IsRepeating = !this.m_CurrSong.mStopOnFade;
-					MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+					// iOS: no-op
+					// iOS: no-op
 					SongChangedEventArgs songChangedEventArgs2 = new SongChangedEventArgs();
 					songChangedEventArgs2.songID = this.m_CurrSongID;
 					songChangedEventArgs2.loop = !this.m_CurrSong.mStopOnFade;
@@ -260,7 +260,7 @@ namespace SexyFramework
 				{
 					MediaPlayer.Resume();
 				}
-				this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
+				this.m_isUserMusicOn = false; // iOS: no-op
 			}
 			else if (this.mCurState == MusicInterface.EMusicInterfaceState.State_UserMusicStopedOutGame && this.m_isUserMusicOn && MediaPlayer.State != (global::Microsoft.Xna.Framework.Media.MediaState)1 && this.m_onDeactive && this.m_onServiceDeactive && this.mUpdateCount > 1)
 			{
@@ -276,8 +276,8 @@ namespace SexyFramework
 				if (this.m_CurrSong.m_Song.Name != activeSong3.Name)
 				{
 					this.m_CurrSong.play();
-					MediaPlayer.IsRepeating = !this.m_CurrSong.mStopOnFade;
-					MediaPlayer.Volume = Common.CaculatePowValume(this.m_MusicVolume);
+					// iOS: no-op
+					// iOS: no-op
 					SongChangedEventArgs songChangedEventArgs3 = new SongChangedEventArgs();
 					songChangedEventArgs3.songID = this.m_CurrSongID;
 					songChangedEventArgs3.loop = !this.m_CurrSong.mStopOnFade;
@@ -290,7 +290,7 @@ namespace SexyFramework
 				{
 					MediaPlayer.Resume();
 				}
-				this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
+				this.m_isUserMusicOn = false; // iOS: no-op
 			}
 			else if (this.mCurState == MusicInterface.EMusicInterfaceState.State_None)
 			{
@@ -363,7 +363,7 @@ namespace SexyFramework
 			{
 				this.mCurState = MusicInterface.EMusicInterfaceState.State_None;
 			}
-			this.m_isUserMusicOn = !MediaPlayer.GameHasControl;
+			this.m_isUserMusicOn = false; // iOS: no-op
 		}
 
 		protected Dictionary<int, SoundEffectWrapper> m_SoundDict = new Dictionary<int, SoundEffectWrapper>();

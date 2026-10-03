@@ -16,6 +16,7 @@ jobs:
       
       - name: Install iOS workload
         run: |
+          cp global.json /tmp/
           cd /tmp
           dotnet workload install ios
       

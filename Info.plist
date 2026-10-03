@@ -25,5 +25,15 @@
     </array>
     <key>UIRequiresFullScreen</key>
     <true/>
+    <key>CFBundleIcons</key>
+    <dict>
+        <key>CFBundlePrimaryIcon</key>
+        <dict>
+            <key>CFBundleIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+        </dict>
+    </dict>
 </dict>
 </plist>

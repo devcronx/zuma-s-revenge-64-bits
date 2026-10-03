@@ -29,6 +29,7 @@
   <!-- Include game assets as bundle resources -->
   <ItemGroup>
     <BundleResource Include="Content/**/*" />
+    <BundleResource Include="Icon.png" />
   </ItemGroup>
 
   <!-- Include all source files from the shared src directory -->

@@ -10,15 +10,6 @@ namespace ZumasRevenge
     {
         static void Main(string[] args)
         {
-            // Set current directory to the Content folder in the app bundle
-            // so the game's ResourceManager can find the assets
-            string bundlePath = NSBundle.MainBundle.BundlePath;
-            string contentPath = Path.Combine(bundlePath, "Content");
-            if (Directory.Exists(contentPath))
-            {
-                Directory.SetCurrentDirectory(contentPath);
-            }
-            
             UIApplication.Main(args, null, typeof(AppDelegate));
         }
     }
@@ -30,8 +21,26 @@ namespace ZumasRevenge
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            var game = new GameMain();
-            game.Run();
+            try
+            {
+                // Set current directory to the Content folder in the app bundle
+                // so the game's ResourceManager can find the assets
+                string bundlePath = NSBundle.MainBundle.BundlePath;
+                string contentPath = Path.Combine(bundlePath, "Content");
+                if (Directory.Exists(contentPath))
+                {
+                    Directory.SetCurrentDirectory(contentPath);
+                }
+                
+                var game = new GameMain();
+                game.Run();
+            }
+            catch (Exception ex)
+            {
+                // Log the exception to help debugging
+                Console.WriteLine("FATAL: " + ex.ToString());
+                throw;
+            }
             return true;
         }
     }

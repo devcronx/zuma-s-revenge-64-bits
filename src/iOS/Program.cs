@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using Foundation;
 using UIKit;
+using CoreGraphics;
 
 namespace ZumasRevenge
 {
@@ -20,15 +21,11 @@ namespace ZumasRevenge
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            string bundlePath = NSBundle.MainBundle.BundlePath;
-            string contentPath = Path.Combine(bundlePath, "Content");
-            if (Directory.Exists(contentPath))
-            {
-                Directory.SetCurrentDirectory(contentPath);
-            }
-            
-            var game = new GameMain();
-            game.Run();
+            // SIMPLEST TEST: Just show a red screen. If this works, the app launches.
+            // If it crashes, the problem is in iOS/.NET startup, not our code.
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+            Window.BackgroundColor = UIColor.Red;
+            Window.MakeKeyAndVisible();
             return true;
         }
     }

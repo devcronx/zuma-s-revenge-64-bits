@@ -18,6 +18,13 @@ namespace ZumasRevenge
     {
         public override UIWindow Window { get; set; }
 
+        public override UISceneConfiguration GetConfiguration(UIApplication application, UISceneSession connectingSceneSession, UISceneConnectionOptions options)
+        {
+            var config = new UISceneConfiguration("Default Configuration", connectingSceneSession.Role);
+            config.DelegateClass = ObjCRuntime.Class.GetHandle(typeof(SceneDelegate));
+            return config;
+        }
+
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
             try

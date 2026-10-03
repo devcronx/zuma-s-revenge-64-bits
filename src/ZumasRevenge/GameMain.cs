@@ -32,15 +32,18 @@ namespace ZumasRevenge
 		{
 			base.Initialize();
 			this.spriteBatch = new SpriteBatch(base.GraphicsDevice);
-			this.mSpriteFont = base.Content.Load<SpriteFont>("Arial_20");
+			try { this.mSpriteFont = base.Content.Load<SpriteFont>("Arial_20"); }
+			catch { this.mSpriteFont = null; } // iOS: no .xnb available
 			base.Window.OrientationChanged += new EventHandler<EventArgs>(this.OrientationChanged);
 			this.SexyZuma.InitText();
 			if (Localization.GetCurrentLanguage() != Localization.LanguageType.Language_FR)
 			{
-				this.splash = base.Content.Load<Texture2D>("Default-Landscape");
+				try { this.splash = base.Content.Load<Texture2D>("Default-Landscape"); }
+				catch { this.splash = null; } // iOS: no .xnb available
 				return;
 			}
-			this.splash = base.Content.Load<Texture2D>("LoadingImage_DarkFrog_French");
+			try { this.splash = base.Content.Load<Texture2D>("LoadingImage_DarkFrog_French"); }
+			catch { this.splash = null; } // iOS: no .xnb available
 		}
 
 		protected override void LoadContent()

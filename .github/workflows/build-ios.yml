@@ -14,6 +14,11 @@ jobs:
         with:
           dotnet-version: '8.0.x'
       
+      - name: Install iOS workload
+        run: |
+          sudo dotnet workload update
+          sudo dotnet workload install ios
+      
       - name: Build
         run: dotnet build ZumaIOS.iOS.csproj -c Release -p:BuildIpa=true
       

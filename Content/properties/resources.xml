@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generado por el pipeline de assets iOS; no editar a mano. -->
+<ResourceManifest>
+
+<Resources id="Boss1">
+<Image id="IMAGE_BOSS_TIGER_PAWBACK_LEFT" path="images\BOSS_TIGER_PAWBACK_LEFT.png" />
+<Image id="IMAGE_BOSS_TIGER_PAWBACK_RIGHT" path="images\BOSS_TIGER_PAWBACK_RIGHT.png" />
+<Image id="IMAGE_BOSS_TIGER_PAWFRONT_LEFT" path="images\BOSS_TIGER_PAWFRONT_LEFT.png" />
+<Image id="IMAGE_BOSS_TIGER_PAWFRONT_RIGHT" path="images\BOSS_TIGER_PAWFRONT_RIGHT.png" />
+<Image id="IMAGE_BOSS_TIGER_SKULL_LEFT" path="images\BOSS_TIGER_SKULL_LEFT.png" />
+<Image id="IMAGE_BOSS_TIGER_SKULL_RIGHT" path="images\BOSS_TIGER_SKULL_RIGHT.png" />
+<Image id="IMAGE_BOSS_TIGER_STREAKS_DOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_TIGER_STREAKS_UP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_TIGER_SWIPE" path="images\BOSS_TIGER_SWIPE.png" cols="3" />
+<Image id="IMAGE_BOSS_TIGER_HEAD" path="images\BOSS_TIGER_HEAD.png" />
+<Image id="IMAGE_BOSS_TIGER_HIT" path="images\BOSS_TIGER_HIT.png" />
+<Image id="IMAGE_BOSS_TIGER_HIT_PAWS" path="images\BOSS_TIGER_HIT_PAWS.png" />
+<Image id="IMAGE_BOSS_TIGER_INTRO_BG" path="images\BOSS_TIGER_INTRO_BG.png" />
+<Image id="IMAGE_BOSS_TIGER_CHUNK1" path="images\BOSS_TIGER_CHUNK1.png" />
+<Image id="IMAGE_BOSS_TIGER_CHUNK2" path="images\BOSS_TIGER_CHUNK2.png" />
+<Image id="IMAGE_BOSS_TIGER_CHUNK3" path="images\BOSS_TIGER_CHUNK3.png" />
+<Image id="IMAGE_BOSS_TIGER_SKULL_LEFT_PARTICLE" path="images\BOSS_TIGER_SKULL_LEFT_PARTICLE.png" />
+<Image id="IMAGE_BOSS_TIGER_SKULL_RIGHT_PARTICLE" path="images\BOSS_TIGER_SKULL_RIGHT_PARTICLE.png" />
+<Image id="IMAGE_BOSS_TIGER_BANDAGED" path="images\BOSS_TIGER_BANDAGED.png" />
+<Sound id="SOUND_BOSS1_DIE" path="sounds\boss1die" />
+<Sound id="SOUND_BOSS1_ENRAGE" path="sounds\boss1enrage" />
+<Sound id="SOUND_BOSS1_FIRE" path="sounds\boss1fire" />
+<Sound id="SOUND_BOSS1_HIT" path="sounds\boss1hit" />
+<Sound id="SOUND_BOSS1_INTRO" path="sounds\boss1threat" />
+<Sound id="SOUND_BOSS1_PLAYER_HIT" path="sounds\boss1playerhit" />
+<Sound id="SOUND_BOSS1_ROAR" path="sounds\boss1roar" />
+</Resources>
+
+<Resources id="Boss2">
+<Image id="IMAGE_BOSS_DOCTOR_BALL" path="images\BOSS_DOCTOR_BALL.png" />
+<Image id="IMAGE_BOSS_DOCTOR_FACES" path="images\BOSS_DOCTOR_FACES.png" cols="8" />
+<Image id="IMAGE_BOSS_DOCTOR_GLOW_CIRCLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_DOCTOR_GLOW_RINGS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_DOCTOR_HAIR" path="images\BOSS_DOCTOR_HAIR.png" cols="6" />
+<Image id="IMAGE_BOSS_DOCTOR_ROD_LEFT" path="images\BOSS_DOCTOR_ROD_LEFT.png" />
+<Image id="IMAGE_BOSS_DOCTOR_ROD_RIGHT" path="images\BOSS_DOCTOR_ROD_RIGHT.png" />
+<Image id="IMAGE_BOSS_DOCTOR_RUNE_LEFT" path="images\BOSS_DOCTOR_RUNE_LEFT.png" />
+<Image id="IMAGE_BOSS_DOCTOR_RUNE_LEFT_OUTLINE" path="images\BOSS_DOCTOR_RUNE_LEFT_OUTLINE.png" />
+<Image id="IMAGE_BOSS_DOCTOR_INTRO_BG" path="images\BOSS_DOCTOR_INTRO_BG.png" />
+<Image id="IMAGE_BOSS_DOCTOR_BANDAGED" path="images\BOSS_DOCTOR_BANDAGED.png" />
+<Sound id="SOUND_BOSS2_DIE" path="sounds\boss2die" />
+<Sound id="SOUND_BOSS2_ENRAGE" path="sounds\boss2enrage" />
+<Sound id="SOUND_BOSS2_FIRE" path="sounds\boss2fire" />
+<Sound id="SOUND_BOSS2_HIT" path="sounds\boss2hit" />
+<Sound id="SOUND_BOSS2_INTRO" path="sounds\boss2threat" />
+<Sound id="SOUND_BOSS2_PLAYER_HIT" path="sounds\boss2playerhit" />
+<Sound id="SOUND_BOSS2_SHIELD_HIT" path="sounds\boss2shieldhit" />
+</Resources>
+
+<Resources id="Boss3">
+<Image id="IMAGE_BOSS_SKELETON_BODY" path="images\BOSS_SKELETON_BODY.png" />
+<Image id="IMAGE_BOSS_SKELETON_JAW" path="images\BOSS_SKELETON_JAW.png" cols="3" />
+<Image id="IMAGE_BOSS_SKELETON_THROW" path="images\BOSS_SKELETON_THROW.png" cols="24" />
+<Image id="IMAGE_BOSS_SKELETON_HIT" path="images\BOSS_SKELETON_HIT.png" cols="34" />
+<Image id="IMAGE_BOSS_SKELETON_SHRUNK_HEAD1" path="images\BOSS_SKELETON_SHRUNK_HEAD1.png" />
+<Image id="IMAGE_BOSS_SKELETON_SHRUNK_HEAD2" path="images\BOSS_SKELETON_SHRUNK_HEAD2.png" />
+<Image id="IMAGE_BOSS_SKELETON_GLOWBALL" path="images\BOSS_SKELETON_GLOWBALL.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELETON" path="images\BOSS_SKELETON_MINI_SKELETON.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELETON_NOSHADOW" path="images\BOSS_SKELETON_MINI_SKELETON_NOSHADOW.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_HEAD" path="images\BOSS_SKELETON_MINI_SKELE_HEAD.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_HEAD_CLOSED" path="images\BOSS_SKELETON_MINI_SKELE_HEAD_CLOSED.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_HEAD_SHADOW" path="images\BOSS_SKELETON_MINI_SKELE_HEAD.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_JAW" path="images\BOSS_SKELETON_MINI_SKELE_JAW.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_JAW_SHADOW" path="images\BOSS_SKELETON_MINI_SKELE_JAW.png" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_RIBS" path="images\BOSS_SKELETON_MINI_SKELE_RIBS.png" cols="6" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_RIBS_SHADOW" path="images\BOSS_SKELETON_MINI_SKELE_RIBS.png" cols="6" />
+<Image id="IMAGE_BOSS_SKELETON_MINI_SKELE_EXPLODE" path="images\BOSS_SKELETON_MINI_SKELE_EXPLODE.png" cols="39" />
+<Image id="IMAGE_BOSS_SKELETON_INTRO_BG" path="images\BOSS_SKELETON_INTRO_BG.png" />
+<Image id="IMAGE_BOSS_SKELETON_HEAD_BURST" path="images\BOSS_SKELETON_HEAD_BURST.png" cols="22" />
+<Image id="IMAGE_BOSS_SKELETON_BANDAGED" path="images\BOSS_SKELETON_BANDAGED.png" />
+<Sound id="SOUND_BOSS3_DIE" path="sounds\boss3die" />
+<Sound id="SOUND_BOSS3_FIRE" path="sounds\boss3fire" />
+<Sound id="SOUND_BOSS3_HIT" path="sounds\boss3hit" />
+<Sound id="SOUND_BOSS3_INTRO" path="sounds\boss3threat" />
+</Resources>
+
+<Resources id="Boss4">
+<Image id="IMAGE_BOSS_MOSQUITO_BUG1" path="images\BOSS_MOSQUITO_BUG1.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_BUG2" path="images\BOSS_MOSQUITO_BUG2.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_BUG3" path="images\BOSS_MOSQUITO_BUG3.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_EYES_CLOSED" path="images\BOSS_MOSQUITO_EYES_CLOSED.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_EYES_HALF" path="images\BOSS_MOSQUITO_EYES_HALF.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_EYES_WIDE" path="images\BOSS_MOSQUITO_EYES_WIDE.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_HIT" path="images\BOSS_MOSQUITO_HIT.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_IDLE" path="images\BOSS_MOSQUITO_IDLE.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_THROW" path="images\BOSS_MOSQUITO_THROW.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_INTRO_BG" path="images\BOSS_MOSQUITO_INTRO_BG.png" />
+<Image id="IMAGE_BOSS_MOSQUITO_CHEW" path="images\BOSS_MOSQUITO_CHEW.png" cols="3" />
+<Image id="IMAGE_BOSS_MOSQUITO_ROCK" path="images\BOSS_MOSQUITO_ROCK.png" cols="10" />
+<Image id="IMAGE_BOSS_MOSQUITO_BANDAGED" path="images\BOSS_MOSQUITO_BANDAGED.png" />
+<Sound id="SOUND_BOSS4_DIE" path="sounds\boss4die" />
+<Sound id="SOUND_BOSS4_EAT_BALL" path="sounds\boss4eatball" />
+<Sound id="SOUND_BOSS4_FIRE" path="sounds\boss4fire" />
+<Sound id="SOUND_BOSS4_HIT" path="sounds\boss4hit" />
+<Sound id="SOUND_BOSS4_INTRO" path="sounds\boss4threat" />
+<Sound id="SOUND_BOSS4_PLAYER_HIT" path="sounds\boss4playerhit" />
+<Sound id="SOUND_BOSS4_TELEPORT" path="sounds\boss4teleport" />
+</Resources>
+
+<Resources id="Boss5">
+<Image id="IMAGE_BOSS_SQUID_FRAY_1" path="images\BOSS_SQUID_FRAY_1.png" x="-3" y="-4" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_2" path="images\BOSS_SQUID_FRAY_2.png" x="1" y="4" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_3" path="images\BOSS_SQUID_FRAY_3.png" x="-2" y="21" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_4" path="images\BOSS_SQUID_FRAY_4.png" x="6" y="39" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_5" path="images\BOSS_SQUID_FRAY_5.png" x="2" y="19" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_6" path="images\BOSS_SQUID_FRAY_6.png" x="1" y="13" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_7" path="images\BOSS_SQUID_FRAY_7.png" x="7" y="39" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_8" path="images\BOSS_SQUID_FRAY_8.png" x="-1" y="24" />
+<Image id="IMAGE_BOSS_SQUID_FRAY_9" path="images\BOSS_SQUID_FRAY_9.png" x="6" y="39" />
+<Image id="IMAGE_BOSS_SQUID_LIGHTNING_LIGHTNING1" path="images\BOSS_SQUID_LIGHTNING_LIGHTNING1.png" />
+<Image id="IMAGE_BOSS_SQUID_LIGHTNING_LIGHTNING2" path="images\_placeholder_8x8.png" x="4" y="1" />
+<Image id="IMAGE_BOSS_SQUID_LIGHTNING_LIGHTNING3" path="images\BOSS_SQUID_LIGHTNING_LIGHTNING3.png" x="6" y="40" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_1" path="images\BOSS_SQUID_SHIELDCOMBO_1.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_2" path="images\BOSS_SQUID_SHIELDCOMBO_2.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_3" path="images\BOSS_SQUID_SHIELDCOMBO_3.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_4" path="images\BOSS_SQUID_SHIELDCOMBO_4.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_5" path="images\BOSS_SQUID_SHIELDCOMBO_5.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_6" path="images\BOSS_SQUID_SHIELDCOMBO_6.png" x="13" y="11" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B1GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B1GLOW.png" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B2GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B2GLOW.png" x="1" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B3GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B3GLOW.png" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B4GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B4GLOW.png" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B5GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B5GLOW.png" />
+<Image id="IMAGE_BOSS_SQUID_SHIELDCOMBO_B6GLOW" path="images\BOSS_SQUID_SHIELDCOMBO_B6GLOW.png" />
+<Image id="IMAGE_BOSS_SQUID_BODY" path="images\BOSS_SQUID_BODY.png" cols="3" />
+<Image id="IMAGE_BOSS_SQUID_EYES" path="images\BOSS_SQUID_EYES.png" cols="3" />
+<Image id="IMAGE_BOSS_SQUID_HEAD" path="images\BOSS_SQUID_HEAD.png" />
+<Image id="IMAGE_BOSS_SQUID_HEAD_DARK" path="images\BOSS_SQUID_HEAD_DARK.png" />
+<Image id="IMAGE_BOSS_SQUID_LEG_LEFT" path="images\BOSS_SQUID_LEG_LEFT.png" cols="5" />
+<Image id="IMAGE_BOSS_SQUID_LEG_RIGHT" path="images\BOSS_SQUID_LEG_RIGHT.png" cols="7" />
+<Image id="IMAGE_BOSS_SQUID_MOUTH_OPEN" path="images\BOSS_SQUID_MOUTH_OPEN.png" />
+<Image id="IMAGE_BOSS_SQUID_MOUTH_OPEN_DARK" path="images\BOSS_SQUID_MOUTH_OPEN_DARK.png" />
+<Image id="IMAGE_BOSS_SQUID_SQUIRT" path="images\BOSS_SQUID_SQUIRT.png" cols="7" />
+<Image id="IMAGE_BOSS_SQUID_THROW_LEFT" path="images\BOSS_SQUID_THROW_LEFT.png" cols="7" />
+<Image id="IMAGE_BOSS_SQUID_THROW_RIGHT" path="images\BOSS_SQUID_THROW_RIGHT.png" cols="9" />
+<Image id="IMAGE_BOSS_SQUID_SPLAT" path="images\BOSS_SQUID_SPLAT.png" />
+<Image id="IMAGE_BOSS_SQUID_SPLAT2" path="images\BOSS_SQUID_SPLAT2.png" />
+<Image id="IMAGE_BOSS_SQUID_INTRO_BG" path="images\BOSS_SQUID_INTRO_BG.png" />
+<Image id="IMAGE_BOSS_SQUID_SONIC_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_SQUID_DARK_CLOUD" path="images\BOSS_SQUID_DARK_CLOUD.png" />
+<Image id="IMAGE_BOSS_SQUID_BANDAGED" path="images\BOSS_SQUID_BANDAGED.png" />
+<Image id="IMAGE_BOSS_SQUID_GLOBULE1" path="images\BOSS_SQUID_GLOBULE1.png" />
+<Image id="IMAGE_BOSS_SQUID_GLOBULE2" path="images\BOSS_SQUID_GLOBULE2.png" />
+<Sound id="SOUND_BOSS5_DIE" path="sounds\boss5die" />
+<Sound id="SOUND_BOSS5_FIRE" path="sounds\boss5fire" />
+<Sound id="SOUND_BOSS5_HIT" path="sounds\boss5hit" />
+<Sound id="SOUND_BOSS5_INTRO" path="sounds\boss5threat" />
+<Sound id="SOUND_BOSS5_PLAYER_HIT" path="sounds\boss5playerhit" />
+<Sound id="SOUND_BOSS5_SHIELD_HIT" path="sounds\boss5shieldhit" />
+</Resources>
+
+<Resources id="Boss6Common">
+<Image id="IMAGE_BOSS_DARKFROG_BACK" path="images\BOSS_DARKFROG_BACK.png" y="34" />
+<Image id="IMAGE_BOSS_DARKFROG_BLINK1" path="images\BOSS_DARKFROG_BLINK1.png" x="70" y="86" />
+<Image id="IMAGE_BOSS_DARKFROG_BLINK2" path="images\BOSS_DARKFROG_BLINK2.png" x="70" y="86" />
+<Image id="IMAGE_BOSS_DARKFROG_BLUR" path="images\BOSS_DARKFROG_BLUR.png" x="76" y="50" />
+<Image id="IMAGE_BOSS_DARKFROG_JAW" path="images\BOSS_DARKFROG_JAW.png" x="58" y="184" />
+<Image id="IMAGE_BOSS_DARKFROG_TAT1" path="images\BOSS_DARKFROG_TAT1.png" x="1" />
+<Image id="IMAGE_BOSS_DARKFROG_TAT2" path="images\BOSS_DARKFROG_TAT2.png" y="184" />
+<Image id="IMAGE_BOSS_DARKFROG_TONGUE" path="images\BOSS_DARKFROG_TONGUE.png" x="109" y="169" />
+<Image id="IMAGE_BOSS_DARKFROG_TOP" path="images\BOSS_DARKFROG_TOP.png" x="39" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_1" path="images\BOSS_DARKFROG_BG_ITEM_1.png" x="1782" y="24" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_2" path="images\BOSS_DARKFROG_BG_ITEM_2.png" x="1758" y="689" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_3" path="images\BOSS_DARKFROG_BG_ITEM_3.png" x="1084" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_4" path="images\BOSS_DARKFROG_BG_ITEM_4.png" x="979" y="134" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_5" path="images\BOSS_DARKFROG_BG_ITEM_5.png" x="542" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_6" path="images\BOSS_DARKFROG_BG_ITEM_6.png" x="522" y="209" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_7" path="images\BOSS_DARKFROG_BG_ITEM_7.png" x="251" y="679" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_8" path="images\BOSS_DARKFROG_BG_ITEM_8.png" />
+<Image id="IMAGE_BOSS_DARKFROG_BG_ITEM_9" path="images\BOSS_DARKFROG_BG_ITEM_9.png" />
+<Image id="IMAGE_BOSS_VORTEX_FACE1" path="images\BOSS_VORTEX_FACE1.png" />
+<Image id="IMAGE_BOSS_VORTEX_FACE2" path="images\BOSS_VORTEX_FACE2.png" />
+<Image id="IMAGE_BOSS_VORTEX_STREAK" path="images\BOSS_VORTEX_STREAK.png" />
+<Image id="IMAGE_BOSS_TORCH" path="images\BOSS_TORCH.png" cols="5" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_1" path="images\BREAK_HD_EASTER_BREAK_1.png" x="139" y="123" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_2" path="images\BREAK_HD_EASTER_BREAK_2.png" x="132" y="102" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_3" path="images\BREAK_HD_EASTER_BREAK_3.png" x="110" y="71" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_3A" path="images\BREAK_HD_EASTER_BREAK_3A.png" x="106" y="68" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_4" path="images\BREAK_HD_EASTER_BREAK_4.png" x="104" y="56" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_5" path="images\BREAK_HD_EASTER_BREAK_5.png" x="53" y="28" />
+<Image id="IMAGE_BREAK_HD_EASTER_BREAK_6" path="images\BREAK_HD_EASTER_BREAK_6.png" />
+<Image id="IMAGE_BREAK_HD_EASTER_REST" path="images\BREAK_HD_EASTER_REST.png" x="156" y="156" />
+<Image id="IMAGE_BREAK_HD_VOLCANO_REST" path="images\BREAK_HD_VOLCANO_REST.png" x="104" y="157" />
+<Image id="IMAGE_HEADS_HD_GNASH_A" path="images\HEADS_HD_GNASH_A.png" />
+<Image id="IMAGE_HEADS_HD_GNASH_B" path="images\HEADS_HD_GNASH_B.png" />
+<Image id="IMAGE_HEADS_HD_GNASH_C" path="images\HEADS_HD_GNASH_C.png" />
+<Image id="IMAGE_HEADS_HD_HEAD_A" path="images\HEADS_HD_HEAD_A.png" x="16" y="23" />
+<Image id="IMAGE_HEADS_HD_HEAD_B" path="images\HEADS_HD_HEAD_B.png" x="11" y="16" />
+<Image id="IMAGE_HEADS_HD_HEAD_C" path="images\HEADS_HD_HEAD_C.png" y="1" />
+<Image id="IMAGE_HEADS_HD_HEAD_DOWN_C" path="images\HEADS_HD_HEAD_DOWN_C.png" x="22" y="31" />
+<Image id="IMAGE_HEADS_HD_HEAD_DOWN_D" path="images\HEADS_HD_HEAD_DOWN_D.png" x="33" y="15" />
+<Image id="IMAGE_HANDS_HD_HAND_A" path="images\HANDS_HD_HAND_A.png" x="10" y="54" />
+<Image id="IMAGE_HANDS_HD_HAND_B" path="images\HANDS_HD_HAND_B.png" y="42" />
+<Image id="IMAGE_HANDS_HD_HAND_C" path="images\HANDS_HD_HAND_C.png" x="17" y="14" />
+<Image id="IMAGE_HANDS_HD_HAND_D" path="images\HANDS_HD_HAND_D.png" x="21" y="3" />
+<Image id="IMAGE_SPITTLE_HD_SPITTLE_A" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_SPITTLE_HD_SPITTLE_B" path="images\_placeholder_8x8.png" x="3" />
+<Image id="IMAGE_SPITTLE_HD_SPITTLE_C" path="images\_placeholder_8x8.png" x="12" y="11" />
+<Image id="IMAGE_WINGS_HD_WING_A" path="images\WINGS_HD_WING_A.png" x="37" y="191" />
+<Image id="IMAGE_WINGS_HD_WING_B" path="images\WINGS_HD_WING_B.png" y="154" />
+<Image id="IMAGE_WINGS_HD_WING_C" path="images\WINGS_HD_WING_C.png" x="-26" y="120" />
+<Image id="IMAGE_WINGS_HD_WING_D" path="images\WINGS_HD_WING_D.png" x="-15" y="104" />
+<Image id="IMAGE_WINGS_HD_WING_E" path="images\WINGS_HD_WING_E.png" x="-22" y="63" />
+<Image id="IMAGE_WINGS_HD_WING_F" path="images\WINGS_HD_WING_F.png" x="-17" y="22" />
+<Image id="IMAGE_WINGS_HD_WING_G" path="images\WINGS_HD_WING_G.png" x="-26" />
+<Image id="IMAGE_WINGS_HD_WING_H" path="images\WINGS_HD_WING_H.png" x="-17" y="104" />
+<Image id="IMAGE_WINGS_HD_WING_I" path="images\WINGS_HD_WING_I.png" x="-14" y="124" />
+<Image id="IMAGE_WINGS_HD_WING_J" path="images\WINGS_HD_WING_J.png" x="1" y="148" />
+<Image id="IMAGE_WINGS_HD_WING_K" path="images\WINGS_HD_WING_K.png" x="2" y="191" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_1" path="images\VOLCANOBOSS_FLAMEOUT_1.png" y="1" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_2" path="images\VOLCANOBOSS_FLAMEOUT_2.png" x="1" y="1" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_3" path="images\VOLCANOBOSS_FLAMEOUT_3.png" x="8" y="1" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_4" path="images\VOLCANOBOSS_FLAMEOUT_4.png" x="8" y="5" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_5" path="images\VOLCANOBOSS_FLAMEOUT_5.png" x="11" y="7" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_6" path="images\VOLCANOBOSS_FLAMEOUT_6.png" x="10" y="10" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_7" path="images\VOLCANOBOSS_FLAMEOUT_7.png" x="12" y="6" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_8" path="images\VOLCANOBOSS_FLAMEOUT_8.png" x="13" y="5" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_9" path="images\VOLCANOBOSS_FLAMEOUT_9.png" x="13" y="20" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_10" path="images\VOLCANOBOSS_FLAMEOUT_10.png" x="13" y="3" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_11" path="images\VOLCANOBOSS_FLAMEOUT_11.png" x="13" y="12" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_A" path="images\VOLCANOBOSS_FLAMEOUT_A.png" />
+<Image id="IMAGE_VOLCANOBOSS_FLAMEOUT_B" path="images\VOLCANOBOSS_FLAMEOUT_B.png" y="1" />
+<Image id="IMAGE_COLORED_BALLS_ORANGE" path="images\COLORED_BALLS_ORANGE.png" />
+<Image id="IMAGE_COLORED_BALLS_RED" path="images\COLORED_BALLS_RED.png" />
+<Image id="IMAGE_COLORED_BALLS_YELLOW" path="images\COLORED_BALLS_YELLOW.png" />
+<Image id="IMAGE_SMOOTHRING" path="images\SMOOTHRING.png" />
+<Image id="IMAGE_BOSS_TIKIFACES_1" path="images\_placeholder_8x8.png" y="16" />
+<Image id="IMAGE_BOSS_TIKIFACES_2" path="images\_placeholder_8x8.png" x="79" y="55" />
+<Image id="IMAGE_BOSS_TIKIFACES_3" path="images\_placeholder_8x8.png" x="79" y="55" />
+<Image id="IMAGE_BOSS_TIKIFACES_4" path="images\_placeholder_8x8.png" x="15" y="15" />
+<Image id="IMAGE_BOSS_TIKIFACES_5" path="images\_placeholder_8x8.png" x="66" y="16" />
+<Image id="IMAGE_BOSS_TIKIFACES_6" path="images\BOSS_TIKIFACES_6.png" x="51" y="19" />
+<Image id="IMAGE_BOSS_TIKIFACES_7" path="images\_placeholder_8x8.png" x="8" y="23" />
+<Image id="IMAGE_BOSS_TIKIFACES_8" path="images\_placeholder_8x8.png" x="52" />
+<Image id="IMAGE_BOSS_VOLCANO_HAND" path="images\BOSS_VOLCANO_HAND.png" cols="4" />
+<Image id="IMAGE_BOSS_VOLCANO_HEAD" path="images\BOSS_VOLCANO_HEAD.png" />
+<Image id="IMAGE_BOSS_VOLCANO_HEAD_BOWL" path="images\BOSS_VOLCANO_HEAD_BOWL.png" />
+<Image id="IMAGE_BOSS_VOLCANO_HIT" path="images\BOSS_VOLCANO_HIT.png" cols="4" />
+<Image id="IMAGE_BOSS_VOLCANO_JAW" path="images\BOSS_VOLCANO_JAW.png" />
+<Image id="IMAGE_BOSS_VOLCANO_WINGS" path="images\BOSS_VOLCANO_WINGS.png" cols="3" />
+<Image id="IMAGE_BOSS6_INTRO_BG" path="images\BOSS6_INTRO_BG.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_BKGRND" path="images\LEVELS_BOSS6PART1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_DIAS" path="images\LEVELS_BOSS6PART1_DIAS.png" x="802" y="393" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_BASE" path="images\LEVELS_BOSS6PART1_BASE.png" x="694" y="330" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_QUADRANT" path="images\LEVELS_BOSS6PART1_QUADRANT.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_PEBBLE1" path="images\LEVELS_BOSS6PART1_ROCKFALL_PEBBLE1.png" x="15" y="20" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_PEBBLE2" path="images\LEVELS_BOSS6PART1_ROCKFALL_PEBBLE2.png" x="16" y="23" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_PEBBLE3" path="images\LEVELS_BOSS6PART1_ROCKFALL_PEBBLE3.png" x="18" y="24" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_SPECK1" path="images\LEVELS_BOSS6PART1_ROCKFALL_SPECK1.png" x="27" y="34" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_SPECK2" path="images\LEVELS_BOSS6PART1_ROCKFALL_SPECK2.png" x="27" y="33" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_ROCKFALL_SPECK3" path="images\LEVELS_BOSS6PART1_ROCKFALL_SPECK3.png" x="27" y="34" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_CHUTE1" path="images\LEVELS_BOSS6PART1_CHUTE1.png" x="341" />
+<Image id="IMAGE_LEVELS_BOSS6PART1_CHUTE2" path="images\LEVELS_BOSS6PART1_CHUTE2.png" x="1334" y="1000" />
+</Resources>
+
+<Resources id="Boss6_DarkFrog">
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_BKGRND" path="images\BOSS_DARKFROG_ADVENTURE_WIN_BKGRND.png" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_CONGRATS" path="images\BOSS_DARKFROG_ADVENTURE_WIN_CONGRATS.png" x="429" y="15" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_CONTINUE_BUTTON" path="images\BOSS_DARKFROG_ADVENTURE_WIN_CONTINUE_BUTTON.png" rows="3" x="869" y="1081" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_DOOR" path="images\BOSS_DARKFROG_ADVENTURE_WIN_DOOR.png" x="1039" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_DOOR_MASK" path="images\BOSS_DARKFROG_ADVENTURE_WIN_DOOR_MASK.png" x="1009" y="453" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_MS_ZUMA" path="images\BOSS_DARKFROG_ADVENTURE_WIN_MS_ZUMA.png" x="1117" y="314" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_SECRET" path="images\BOSS_DARKFROG_ADVENTURE_WIN_SECRET.png" x="178" y="199" />
+<Image id="IMAGE_BOSS_DARKFROG_BURGER" path="images\BOSS_DARKFROG_BURGER.png" />
+<Image id="IMAGE_BOSS_DARKFROG_LB_HALO" path="images\BOSS_DARKFROG_LB_HALO.png" />
+<Image id="IMAGE_BOSS_DARKFROG_LB_TWIRLLIGHT" path="images\BOSS_DARKFROG_LB_TWIRLLIGHT.png" />
+<Image id="IMAGE_BOSS_DARKFROG_LAVABALL_BOTTOM_ADDITIVE" path="images\BOSS_DARKFROG_LAVABALL_BOTTOM_ADDITIVE.png" />
+<Image id="IMAGE_BOSS_DARKFROG_LAVABALL_TOP_NORMAL" path="images\BOSS_DARKFROG_LAVABALL_TOP_NORMAL.png" x="1" y="1" />
+</Resources>
+
+<Resources id="Boss6_Lame">
+<Image id="IMAGE_BOSS_LAME_FEATHER1" path="images\BOSS_LAME_FEATHER1.png" />
+<Image id="IMAGE_BOSS_LAME_FEATHER2" path="images\BOSS_LAME_FEATHER2.png" />
+<Image id="IMAGE_BOSS_LAME_FEATHER3" path="images\BOSS_LAME_FEATHER3.png" />
+<Image id="IMAGE_BOSS_LAME_FEATHER4" path="images\BOSS_LAME_FEATHER4.png" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_LEFT" path="images\BOSS_LAME_CHICKEN_LEFT.png" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_RIGHT" path="images\BOSS_LAME_CHICKEN_RIGHT.png" />
+<Image id="IMAGE_BOSS_LAME_EGG" path="images\BOSS_LAME_EGG.png" />
+<Image id="IMAGE_BOSS_LAME_ROCKS" path="images\BOSS_LAME_ROCKS.png" cols="4" />
+<Image id="IMAGE_BOSS_LAME_TIKI_HIT" path="images\BOSS_LAME_TIKI_HIT.png" />
+<Image id="IMAGE_BOSS_LAME_TIKI_IDLE" path="images\BOSS_LAME_TIKI_IDLE.png" />
+<Image id="IMAGE_BOSS_LAME_TIKI_THROW" path="images\BOSS_LAME_TIKI_THROW.png" />
+<Image id="IMAGE_BOSS_LAME_EYES" path="images\BOSS_LAME_EYES.png" cols="2" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_1" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_1.png" x="24" y="99" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_2" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_2.png" x="23" y="101" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_3" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_3.png" x="120" y="104" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_4" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_4.png" x="118" y="98" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_5" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_5.png" x="53" y="88" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_6" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_6.png" x="23" y="100" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_7" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_7.png" y="105" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_BLINK1" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_BLINK1.png" x="172" y="71" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_BLINK2" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_BLINK2.png" x="173" y="71" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_HAND" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_HAND.png" x="73" y="66" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEAR2" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEAR2.png" x="300" y="116" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEAR3" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEAR3.png" x="308" y="144" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_A" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_A.png" x="174" y="96" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_B" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_B.png" x="175" y="96" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_C" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARLEFT_C.png" x="168" y="97" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_A" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_A.png" x="265" y="98" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_B" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_B.png" x="258" y="96" />
+<Image id="IMAGE_BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_C" path="images\BOSS_LAME_CHICKEN_TIKI_WHITEFLAG_MERGED_TEARRIGHT_C.png" x="272" y="99" />
+<Image id="IMAGE_BOSS_CREDITS_STONE_BOSS" path="images\BOSS_STONEHEAD_FACES.png" />
+<Image id="IMAGE_BOSS_CREDITS_STONE_BOSS_EYES" path="images\BOSS_STONEHEAD_EYES.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME1" path="images\BOSS_CREDITS_NAME1.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME2" path="images\BOSS_CREDITS_NAME2.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME3" path="images\BOSS_CREDITS_NAME3.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME4" path="images\BOSS_CREDITS_NAME4.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME5" path="images\BOSS_CREDITS_NAME5.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME6" path="images\BOSS_CREDITS_NAME6.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME7" path="images\BOSS_CREDITS_NAME7.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME8" path="images\BOSS_CREDITS_NAME8.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME9" path="images\BOSS_CREDITS_NAME9.png" />
+<Image id="IMAGE_BOSS_CREDITS_NAME10" path="images\BOSS_CREDITS_NAME10.png" />
+<Image id="IMAGE_BOSS_CREDITS_BACKGROUND" path="images\BOSS_CREDITS_BACKGROUND.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_GAME" path="images\BOSS_CREDITS_TEXT_GAME.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_YOU" path="images\BOSS_CREDITS_TEXT_YOU.png" />
+<Image id="IMAGE_BOSS_CREDITS_WOOD_BOTTOM" path="images\BOSS_CREDITS_WOOD_BOTTOM.png" />
+<Image id="IMAGE_BOSS_CREDITS_WOOD_TOP" path="images\BOSS_CREDITS_WOOD_TOP.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_G" path="images\BOSS_CREDITS_TEXT_G.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_AM" path="images\BOSS_CREDITS_TEXT_AM.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_E" path="images\BOSS_CREDITS_TEXT_E.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_OV" path="images\BOSS_CREDITS_TEXT_OV.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_ER" path="images\BOSS_CREDITS_TEXT_ER.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_Y" path="images\BOSS_CREDITS_TEXT_Y.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_OU" path="images\BOSS_CREDITS_TEXT_OU.png" />
+<Image id="IMAGE_BOSS_CREDITS_TEXT_IN" path="images\BOSS_CREDITS_TEXT_IN.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK1" path="images\BOSS_CREDITS_ROCK1.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK2" path="images\BOSS_CREDITS_ROCK2.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK3" path="images\BOSS_CREDITS_ROCK3.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK4" path="images\BOSS_CREDITS_ROCK4.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK5" path="images\BOSS_CREDITS_ROCK5.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK6" path="images\BOSS_CREDITS_ROCK6.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK7" path="images\BOSS_CREDITS_ROCK7.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK8" path="images\BOSS_CREDITS_ROCK8.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK9" path="images\BOSS_CREDITS_ROCK9.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK10" path="images\BOSS_CREDITS_ROCK10.png" />
+<Image id="IMAGE_BOSS_CREDITS_ROCK11" path="images\BOSS_CREDITS_ROCK11.png" />
+</Resources>
+
+<Resources id="Boss6_StoneHead">
+<Image id="IMAGE_BOSS_STONEHEAD_EYES" path="images\BOSS_STONEHEAD_EYES.png" cols="3" />
+<Image id="IMAGE_BOSS_STONEHEAD_FACES" path="images\BOSS_STONEHEAD_FACES.png" cols="3" />
+<Image id="IMAGE_BOSS_STONEHEAD_ROCKS" path="images\BOSS_STONEHEAD_ROCKS.png" cols="4" />
+<Image id="IMAGE_BOSS_STONEHEAD_FOG1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_STONEHEAD_FOG2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_STONEHEAD_COCONUT" path="images\BOSS_STONEHEAD_COCONUT.png" />
+<Image id="IMAGE_BOSS_STONEHEAD_HULA_GIRL" path="images\BOSS_STONEHEAD_HULA_GIRL.png" cols="6" />
+</Resources>
+
+<Resources id="CommonBoss">
+<Image id="IMAGE_BOSS_HEARTS" path="images\BOSS_HEARTS.png" cols="5" />
+<Sound id="SOUND_BOSS_HIT1" path="sounds\bosshit1" />
+<Sound id="SOUND_BOSS_HIT2" path="sounds\bosshit2" />
+<Sound id="SOUND_BOSS_HIT3" path="sounds\bosshit3" />
+<Sound id="SOUND_BOSS_HIT4" path="sounds\bosshit4" />
+<Sound id="SOUND_BOSS_STUNNED" path="sounds\freeze" />
+<Sound id="SOUND_BULLET_HIT" path="sounds\froghit" />
+<Sound id="SOUND_FROG_STUNNED" path="sounds\orbhit" />
+<Sound id="SOUND_MINDWARP1" path="sounds\mindwarp1" />
+<Sound id="SOUND_MINDWARP2" path="sounds\mindwarp2" />
+<Sound id="SOUND_SKELETON_HIT" path="sounds\skeletonhit" />
+</Resources>
+
+<Resources id="CommonGame">
+<Image id="IMAGE_GUI_BARIMAGE" path="images\GUI_BARIMAGE.png" />
+<Image id="IMAGE_PAUSED" path="images\PAUSED.png" />
+<Image id="IMAGE_FROG_RIBBIT" path="images\FROG_RIBBIT.png" />
+<Image id="IMAGE_UI_MAP_CONTINUE" path="images\_placeholder_8x8.png" cols="3" x="857" y="765" />
+<Image id="IMAGE_UI_MAP_ENTER_TEXT" path="images\_placeholder_8x8.png" rows="2" x="1369" y="622" />
+<Image id="IMAGE_UI_MAP_STARTNEWGAME" path="images\_placeholder_8x8.png" x="912" y="807" />
+<Image id="IMAGE_UI_MAP_BOOK_ANIM" path="images\_placeholder_8x8.png" cols="3" x="1340" y="37" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARDTEXT_BASETEXT" path="images\GUI_CHECKPOINT_POSTCARDTEXT_BASETEXT.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARD_BACK" path="images\GUI_CHECKPOINT_POSTCARD_BACK.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARD_UNDERLINE" path="images\GUI_CHECKPOINT_POSTCARD_UNDERLINE.png" />
+<Image id="IMAGE_BOSSES_BOSSBKGRNDTORCHES_BOSS" path="images\BOSSES_BOSSBKGRNDTORCHES_BOSS.png" x="17" y="25" />
+<Image id="IMAGE_BOSSES_BOSSBKGRNDTORCHES_EGG_WAND" path="images\BOSSES_BOSSBKGRNDTORCHES_EGG_WAND.png" x="30" y="24" />
+<Image id="IMAGE_BOSSES_BOSSBKGRNDTORCHES_EGG_WAND_ADD" path="images\BOSSES_BOSSBKGRNDTORCHES_EGG_WAND_ADD.png" />
+<Image id="IMAGE_BOSSES_BOSSBKGRNDTORCHES_SHADOW" path="images\BOSSES_BOSSBKGRNDTORCHES_SHADOW.png" x="113" y="335" />
+<Image id="IMAGE_GUI_SLIDER_THUMB" path="images\GUI_SLIDER_THUMB.png" />
+<Image id="IMAGE_GUI_SLIDER_TRACK" path="images\GUI_SLIDER_TRACK.png" />
+<Image id="IMAGE_GUI_BOX" path="images\GUI_BOX.png" />
+<Image id="IMAGE_POWERUPS_BLUE" path="images\POWERUPS_BLUE.png" cols="7" />
+<Image id="IMAGE_POWERUPS_YELLOW" path="images\POWERUPS_YELLOW.png" cols="7" />
+<Image id="IMAGE_POWERUPS_RED" path="images\POWERUPS_RED.png" cols="7" />
+<Image id="IMAGE_POWERUPS_GREEN" path="images\POWERUPS_GREEN.png" cols="7" />
+<Image id="IMAGE_POWERUPS_PURPLE" path="images\POWERUPS_PURPLE.png" cols="7" />
+<Image id="IMAGE_POWERUPS_WHITE" path="images\POWERUPS_WHITE.png" cols="7" />
+<Image id="IMAGE_POWERUPS_GREEN_CBM" path="images\POWERUPS_GREEN_CBM.png" cols="7" />
+<Image id="IMAGE_POWERUPS_WHITE_CBM" path="images\POWERUPS_WHITE_CBM.png" cols="7" />
+<Image id="IMAGE_POWERUPS_PURPLE_CBM" path="images\POWERUPS_PURPLE_CBM.png" cols="7" />
+<Image id="IMAGE_BALL_SHADOW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_ARM_LEFT" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_ARM_LEFT.png" x="45" y="155" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_ARM_RIGHT" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_ARM_RIGHT.png" x="148" y="155" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_BODY" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_BODY.png" x="49" y="35" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_GLOW" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_GLOW.png" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_HAND_LEFT" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_HAND_LEFT.png" x="37" y="154" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_PURPLE_HAND_RIGHT" path="images\BOSS_DOCTOR_SHIELDTIKI_PURPLE_HAND_RIGHT.png" x="128" y="154" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_ARM_LEFT" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_ARM_LEFT.png" x="48" y="158" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_ARM_RIGHT" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_ARM_RIGHT.png" x="149" y="158" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_BODY" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_BODY.png" x="54" y="34" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_GLOW" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_GLOW.png" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_HAND_LEFT" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_HAND_LEFT.png" x="33" y="159" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTIKI_ORANGE_HAND_RIGHT" path="images\BOSS_DOCTOR_SHIELDTIKI_ORANGE_HAND_RIGHT.png" x="127" y="161" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMSBACK" path="images\BOSS_DOCTOR_ENERGYBEAMSBACK.png" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTRIANGLE_TRIANGLE" path="images\BOSS_DOCTOR_SHIELDTRIANGLE_TRIANGLE.png" x="32" y="31" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDTRIANGLE_TRIANGLE_ADD" path="images\BOSS_DOCTOR_SHIELDTRIANGLE_TRIANGLE_ADD.png" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDCIRCLE_CIRCLE" path="images\BOSS_DOCTOR_SHIELDCIRCLE_CIRCLE.png" x="33" y="33" />
+<Image id="IMAGE_BOSS_DOCTOR_SHIELDCIRCLE_CIRCLE_ADD" path="images\BOSS_DOCTOR_SHIELDCIRCLE_CIRCLE_ADD.png" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_1" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_1.png" y="16" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_2" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_2.png" y="11" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_3" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_3.png" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_4" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_4.png" y="8" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_5" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_5.png" y="9" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_6" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_6.png" y="14" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_7" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_7.png" y="10" />
+<Image id="IMAGE_BOSS_DOCTOR_ENERGYBEAMS_ANIM_8" path="images\BOSS_DOCTOR_ENERGYBEAMS_ANIM_8.png" y="14" />
+<Image id="IMAGE_UI_CIRCLE" path="images\UI_CIRCLE.png" />
+<Image id="IMAGE_UI_CONE" path="images\UI_CONE.png" />
+<Image id="IMAGE_BOSS_WORD_BUBBLE" path="images\BOSS_WORD_BUBBLE.png" />
+<Image id="IMAGE_BOSS_WORD_BUBBLE_MIRROR" path="images\BOSS_WORD_BUBBLE_MIRROR.png" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_1" path="images\BOSSES_DEATH_BG_TIKIS_1.png" x="1136" y="317" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_2" path="images\_placeholder_8x8.png" x="784" y="636" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_3" path="images\_placeholder_8x8.png" x="178" y="45" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_4" path="images\BOSSES_DEATH_BG_TIKIS_4.png" x="411" y="737" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_5" path="images\_placeholder_8x8.png" x="209" y="797" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_6" path="images\_placeholder_8x8.png" x="-180" y="346" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_7" path="images\_placeholder_8x8.png" x="703" y="35" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_8" path="images\BOSSES_DEATH_BG_TIKIS_8.png" x="-248" y="-253" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_9" path="images\_placeholder_8x8.png" x="1666" y="673" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_10" path="images\BOSSES_DEATH_BG_TIKIS_10.png" x="1126" y="-298" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_11" path="images\_placeholder_8x8.png" x="1486" y="-155" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_12" path="images\_placeholder_8x8.png" x="749" y="1058" />
+<Image id="IMAGE_BOSSES_DEATH_BG_TIKIS_13" path="images\_placeholder_8x8.png" x="1669" y="252" />
+<Image id="IMAGE_BOSS_LAME_CLOAKEDBOSS_CLAP" path="images\BOSS_LAME_CLOAKEDBOSS_CLAP.png" rows="7" />
+<Image id="IMAGE_BOSS_LAME_CLOAKEDBOSS_ARMDOWN_REST" path="images\BOSS_LAME_CLOAKEDBOSS_ARMDOWN_REST.png" />
+<Image id="IMAGE_BOSS_LAME_CLOAKEDBOSS_ARMDOWN_SHADOW" path="images\BOSS_LAME_CLOAKEDBOSS_ARMDOWN_SHADOW.png" x="17" y="243" />
+<Image id="IMAGE_BOSSES_EGG" path="images\BOSSES_EGG.png" x="30" y="34" />
+<Image id="IMAGE_BOSSES_EGG_ADD" path="images\BOSSES_EGG_ADD.png" />
+<Image id="IMAGE_UI_MAP_ZOOM" path="images\UI_MAP_ZOOM.png" />
+<Image id="IMAGE_UI_MAP_JUNGLE_HILITE" path="images\_placeholder_8x8.png" x="1248" y="403" />
+<Image id="IMAGE_UI_MAP_VILLAGE_HILITE" path="images\_placeholder_8x8.png" x="899" y="76" />
+<Image id="IMAGE_UI_MAP_CITY_HILITE" path="images\_placeholder_8x8.png" x="839" y="345" />
+<Image id="IMAGE_UI_MAP_COAST_HILITE" path="images\_placeholder_8x8.png" x="440" y="346" />
+<Image id="IMAGE_UI_MAP_GROTTO_HILITE" path="images\_placeholder_8x8.png" x="318" y="258" />
+<Image id="IMAGE_UI_MAP_VOLCANO_HILITE" path="images\_placeholder_8x8.png" x="480" />
+<Image id="IMAGE_UI_MAP_JUNGLE_OVERLAY" path="images\_placeholder_8x8.png" x="1257" y="411" />
+<Image id="IMAGE_UI_MAP_VILLAGE_OVERLAY" path="images\_placeholder_8x8.png" x="908" y="85" />
+<Image id="IMAGE_UI_MAP_CITY_OVERLAY" path="images\_placeholder_8x8.png" x="847" y="354" />
+<Image id="IMAGE_UI_MAP_COAST_OVERLAY" path="images\_placeholder_8x8.png" x="449" y="354" />
+<Image id="IMAGE_UI_MAP_GROTTO_OVERLAY" path="images\_placeholder_8x8.png" x="338" y="277" />
+<Image id="IMAGE_UI_MAP_VOLCANO_OVERLAY" path="images\_placeholder_8x8.png" x="488" y="4" />
+<Image id="IMAGE_UI_MAP_OPENBOOK_PAGES" path="images\UI_MAP_OPENBOOK_PAGES.png" x="19" y="21" />
+<Image id="IMAGE_UI_MAP_BKGRND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAP_FOG1" path="images\_placeholder_8x8.png" x="955" y="285" />
+<Image id="IMAGE_UI_MAP_FOG2" path="images\_placeholder_8x8.png" x="903" y="190" />
+<Image id="IMAGE_UI_MAP_FOG3" path="images\_placeholder_8x8.png" x="904" y="141" />
+<Image id="IMAGE_UI_MAP_ARROW" path="images\_placeholder_8x8.png" rows="2" x="1309" y="625" />
+<Image id="IMAGE_UI_MAP_CONTINUE_BUTTON" path="images\_placeholder_8x8.png" cols="3" x="780" y="698" />
+<Image id="IMAGE_UI_MAP_CONTINUE_SHADOW" path="images\_placeholder_8x8.png" x="776" y="712" />
+<Image id="IMAGE_UI_MAP_LEVELINFO" path="images\_placeholder_8x8.png" x="903" y="826" />
+<Image id="IMAGE_UI_MAP_RIMGLOW" path="images\_placeholder_8x8.png" x="776" y="690" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_CLOAK" path="images\UI_ADVENTURE_STATS_CLOAK.png" x="1517" y="370" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_DOCTOR" path="images\UI_ADVENTURE_STATS_DOCTOR.png" x="1509" y="378" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_FROG" path="images\UI_ADVENTURE_STATS_FROG.png" x="822" y="382" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_MOSQUITO" path="images\UI_ADVENTURE_STATS_MOSQUITO.png" x="1521" y="379" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_PIP" path="images\UI_ADVENTURE_STATS_PIP.png" x="858" y="398" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_RED_BOSS_FLASH" path="images\UI_ADVENTURE_STATS_RED_BOSS_FLASH.png" x="1515" y="378" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_SKULL" path="images\UI_ADVENTURE_STATS_SKULL.png" x="1501" y="378" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_SQUID" path="images\UI_ADVENTURE_STATS_SQUID.png" x="1519" y="378" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_TIGER" path="images\UI_ADVENTURE_STATS_TIGER.png" x="1522" y="386" />
+<Image id="IMAGE_GUI_ADVENTURE_SPEECHBALLOON_YELLOW" path="images\GUI_ADVENTURE_SPEECHBALLOON_YELLOW.png" />
+<Image id="IMAGE_GUI_AD_STATS_BUBBLE" path="images\GUI_AD_STATS_BUBBLE.png" />
+<Image id="IMAGE_GUI_STATSCREEN_BURST" path="images\GUI_STATSCREEN_BURST.png" />
+<Image id="IMAGE_LEVELS_INTROSCREEN_BKGRND" path="images\LEVELS_INTROSCREEN_BKGRND.png" y="-125" />
+<Image id="IMAGE_LEVELS_INTROSCREEN_WATER" path="images\LEVELS_INTROSCREEN_WATER.png" y="548" />
+<Image id="IMAGE_FX_UNDERWATER_BUBBLE" path="images\FX_UNDERWATER_BUBBLE.png" />
+<Image id="IMAGE_PARTICLE_SMOKE_ANIM" path="images\PARTICLE_SMOKE_ANIM.png" cols="4" />
+<Image id="IMAGE_BOSS_DARKFROG_4_BLINK" path="images\BOSS_DARKFROG_4_BLINK.png" />
+<Image id="IMAGE_BOSS_DARKFROG_4_PUPIL" path="images\BOSS_DARKFROG_4_PUPIL.png" />
+<Image id="IMAGE_BOSS_DARKFROG_5_BLINK" path="images\BOSS_DARKFROG_5_BLINK.png" />
+<Image id="IMAGE_BOSS_DARKFROG_BUGEYE" path="images\BOSS_DARKFROG_BUGEYE.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_1" path="images\BOSS_DARKFROG_FRAME_1.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_2" path="images\BOSS_DARKFROG_FRAME_2.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_3" path="images\BOSS_DARKFROG_FRAME_3.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_4" path="images\BOSS_DARKFROG_FRAME_4.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_5" path="images\BOSS_DARKFROG_FRAME_5.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_6" path="images\BOSS_DARKFROG_FRAME_6.png" />
+<Image id="IMAGE_BOSS_DARKFROG_FRAME_7" path="images\BOSS_DARKFROG_FRAME_7.png" />
+<Image id="IMAGE_BLUE_BALL" path="images\BLUE_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_YELLOW_BALL" path="images\YELLOW_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_RED_BALL" path="images\RED_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_GREEN_BALL" path="images\GREEN_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_PURPLE_BALL" path="images\PURPLE_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_WHITE_BALL" path="images\WHITE_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_PURPLE_BALL_CBM" path="images\PURPLE_BALL_CBM.png" cols="10" rows="6" />
+<Image id="IMAGE_GREEN_BALL_CBM" path="images\GREEN_BALL_CBM.png" cols="6" rows="5" />
+<Image id="IMAGE_MULTIPLIER_BALL_OUTER" path="images\_placeholder_8x8.png" cols="10" rows="6" />
+<Image id="IMAGE_MULTIPLIER_BALL_BLUE" path="images\MULTIPLIER_BALL_BLUE.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_YELLOW" path="images\MULTIPLIER_BALL_YELLOW.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_RED" path="images\MULTIPLIER_BALL_RED.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_GREEN" path="images\MULTIPLIER_BALL_GREEN.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_PURPLE" path="images\MULTIPLIER_BALL_PURPLE.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_WHITE" path="images\MULTIPLIER_BALL_WHITE.png" cols="5" rows="3" />
+<Image id="IMAGE_MULTIPLIER_BALL_GREEN_CBM" path="images\MULTIPLIER_BALL_GREEN_CBM.png" />
+<Image id="IMAGE_MULTIPLIER_BALL_PURPLE_CBM" path="images\MULTIPLIER_BALL_PURPLE_CBM.png" />
+<Image id="IMAGE_BALL_ALPHA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BALL_GLOW" path="images\BALL_GLOW.png" />
+<Image id="IMAGE_BALL_RING" path="images\BALL_RING.png" />
+<Image id="IMAGE_POWERUPS_PULSES" path="images\_placeholder_8x8.png" cols="7" />
+<Image id="IMAGE_NEXT_BALL" path="images\NEXT_BALL.png" cols="4" rows="2" />
+<Image id="IMAGE_BALL" path="images\BALL.png" />
+<Image id="IMAGE_SHADER_HEATWAVE" path="images\SHADER_HEATWAVE.png" />
+<Image id="IMAGE_CANNON_BALL" path="images\CANNON_BALL.png" />
+<Image id="IMAGE_LAZER_BURN" path="images\LAZER_BURN.png" cols="20" />
+<Image id="IMAGE_POWERUP_REVERSE_ANYCOLOR" path="images\POWERUP_REVERSE_ANYCOLOR.png" cols="22" />
+<Image id="IMAGE_POWERUP_LAZER_ANYCOLOR" path="images\_placeholder_8x8.png" rows="23" />
+<Image id="IMAGE_CANNON_RING_BLUE" path="images\CANNON_RING_BLUE.png" />
+<Image id="IMAGE_CANNON_RING_YELLOW" path="images\CANNON_RING_YELLOW.png" />
+<Image id="IMAGE_CANNON_RING_RED" path="images\CANNON_RING_RED.png" />
+<Image id="IMAGE_CANNON_RING_GREEN" path="images\CANNON_RING_GREEN.png" />
+<Image id="IMAGE_CANNON_RING_PURPLE" path="images\CANNON_RING_PURPLE.png" />
+<Image id="IMAGE_CANNON_RING_WHITE" path="images\CANNON_RING_WHITE.png" />
+<Image id="IMAGE_BLOOM_BLAST_BLUE" path="images\BLOOM_BLAST_BLUE.png" />
+<Image id="IMAGE_BLOOM_BLAST_YELLOW" path="images\BLOOM_BLAST_YELLOW.png" />
+<Image id="IMAGE_BLOOM_BLAST_RED" path="images\BLOOM_BLAST_RED.png" />
+<Image id="IMAGE_BLOOM_BLAST_GREEN" path="images\BLOOM_BLAST_GREEN.png" />
+<Image id="IMAGE_BLOOM_BLAST_PURPLE" path="images\BLOOM_BLAST_PURPLE.png" />
+<Image id="IMAGE_BLOOM_BLAST_WHITE" path="images\BLOOM_BLAST_WHITE.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_BLUE" path="images\BLOOM_BACKWARDS_BLUE.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_YELLOW" path="images\BLOOM_BACKWARDS_YELLOW.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_RED" path="images\BLOOM_BACKWARDS_RED.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_GREEN" path="images\BLOOM_BACKWARDS_GREEN.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_PURPLE" path="images\BLOOM_BACKWARDS_PURPLE.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_WHITE" path="images\BLOOM_BACKWARDS_WHITE.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_BLUE" path="images\BLOOM_ACCURACY_BLUE.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_YELLOW" path="images\BLOOM_ACCURACY_YELLOW.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_RED" path="images\BLOOM_ACCURACY_RED.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_GREEN" path="images\BLOOM_ACCURACY_GREEN.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_PURPLE" path="images\BLOOM_ACCURACY_PURPLE.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_WHITE" path="images\BLOOM_ACCURACY_WHITE.png" />
+<Image id="IMAGE_BLOOM_STOP_BLUE" path="images\BLOOM_STOP_BLUE.png" />
+<Image id="IMAGE_BLOOM_STOP_YELLOW" path="images\BLOOM_STOP_YELLOW.png" />
+<Image id="IMAGE_BLOOM_STOP_RED" path="images\BLOOM_STOP_RED.png" />
+<Image id="IMAGE_BLOOM_STOP_GREEN" path="images\BLOOM_STOP_GREEN.png" />
+<Image id="IMAGE_BLOOM_STOP_PURPLE" path="images\BLOOM_STOP_PURPLE.png" />
+<Image id="IMAGE_BLOOM_STOP_WHITE" path="images\BLOOM_STOP_WHITE.png" />
+<Image id="IMAGE_BLOOM_STOP_OUTLINE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BLOOM_LASER_BLUE" path="images\BLOOM_LASER_BLUE.png" />
+<Image id="IMAGE_BLOOM_LASER_YELLOW" path="images\BLOOM_LASER_YELLOW.png" />
+<Image id="IMAGE_BLOOM_LASER_RED" path="images\BLOOM_LASER_RED.png" />
+<Image id="IMAGE_BLOOM_LASER_GREEN" path="images\BLOOM_LASER_GREEN.png" />
+<Image id="IMAGE_BLOOM_LASER_PURPLE" path="images\BLOOM_LASER_PURPLE.png" />
+<Image id="IMAGE_BLOOM_LASER_WHITE" path="images\BLOOM_LASER_WHITE.png" />
+<Image id="IMAGE_HOLE_BASE" path="images\HOLE_BASE.png" />
+<Image id="IMAGE_HOLE_HEAD" path="images\HOLE_HEAD.png" />
+<Image id="IMAGE_HOLE_JAW" path="images\HOLE_JAW.png" />
+<Image id="IMAGE_HOLE" path="images\HOLE.png" />
+<Image id="IMAGE_HOLE_BASE_GRAY" path="images\HOLE_BASE_GRAY.png" />
+<Image id="IMAGE_HOLE_HEAD_GRAY" path="images\HOLE_HEAD_GRAY.png" />
+<Image id="IMAGE_HOLE_JAW_GRAY" path="images\HOLE_JAW_GRAY.png" />
+<Image id="IMAGE_HOLE_GRAY" path="images\HOLE_GRAY.png" />
+<Image id="IMAGE_DEATHSKULL_LARGE_BLACK" path="images\DEATHSKULL_LARGE_BLACK.png" x="141" y="96" />
+<Image id="IMAGE_DEATHSKULL_LARGE_BOTTOM" path="images\DEATHSKULL_LARGE_BOTTOM.png" x="-1" y="222" />
+<Image id="IMAGE_DEATHSKULL_LARGE_MIDDLE" path="images\DEATHSKULL_LARGE_MIDDLE.png" x="51" y="96" />
+<Image id="IMAGE_DEATHSKULL_LARGE_TOP" path="images\_placeholder_8x8.png" x="-1" y="-1" />
+<Image id="IMAGE_INFERNO_RING" path="images\INFERNO_RING.png" cols="6" rows="6" />
+<Image id="IMAGE_SKULL_PATH" path="images\SKULL_PATH.png" />
+<Image id="IMAGE_SKULL_PATH_LIT" path="images\SKULL_PATH_LIT.png" />
+<Image id="IMAGE_PATH_SPARKLES" path="images\PATH_SPARKLES.png" cols="14" />
+<Image id="IMAGE_FRUIT_PINEAPPLE" path="images\FRUIT_PINEAPPLE.png" cols="10" rows="6" />
+<Image id="IMAGE_FRUIT_BANANA" path="images\FRUIT_BANANA.png" cols="8" rows="10" />
+<Image id="IMAGE_FRUIT_COCOA" path="images\FRUIT_COCOA.png" cols="10" rows="6" />
+<Image id="IMAGE_FRUIT_MANGO" path="images\FRUIT_MANGO.png" cols="10" rows="6" />
+<Image id="IMAGE_FRUIT_GENERIC_GLOW" path="images\FRUIT_GENERIC_GLOW.png" />
+<Image id="IMAGE_FRUIT_COCONUT" path="images\FRUIT_COCONUT.png" cols="10" rows="6" />
+<Image id="IMAGE_FRUIT_ACORN" path="images\FRUIT_ACORN.png" cols="10" rows="6" />
+<Image id="IMAGE_LARGE_FROG" path="images\LARGE_FROG.png" />
+<Image id="IMAGE_FROG_TONGUE" path="images\FROG_TONGUE.png" />
+<Image id="IMAGE_FROG_BALLBACK" path="images\FROG_BALLBACK.png" />
+<Image id="IMAGE_FROG_NORMAL_BODY" path="images\FROG_NORMAL_BODY.png" />
+<Image id="IMAGE_FROG_NORMAL_EYES" path="images\FROG_NORMAL_EYES.png" rows="2" />
+<Image id="IMAGE_FROG_NORMAL_LEGS" path="images\FROG_NORMAL_LEGS.png" rows="2" />
+<Image id="IMAGE_FROG_NORMAL_MOUTH" path="images\FROG_NORMAL_MOUTH.png" />
+<Image id="IMAGE_FROG_CANNON_BODY" path="images\FROG_CANNON_BODY.png" />
+<Image id="IMAGE_FROG_CANNON_EYES" path="images\FROG_CANNON_EYES.png" rows="2" />
+<Image id="IMAGE_FROG_CANNON_LEGS" path="images\FROG_CANNON_LEGS.png" rows="2" />
+<Image id="IMAGE_FROG_CANNON_MOUTH" path="images\FROG_CANNON_MOUTH.png" rows="3" />
+<Image id="IMAGE_FROG_INKED_BOTTOM" path="images\FROG_INKED_BOTTOM.png" x="84" y="26" />
+<Image id="IMAGE_FROG_INKED_TOP" path="images\FROG_INKED_TOP.png" />
+<Image id="IMAGE_FROG_ACCURACY_GUIDE" path="images\FROG_ACCURACY_GUIDE.png" />
+<Image id="IMAGE_FROG_CANNON_CHEVRONS" path="images\FROG_CANNON_CHEVRONS.png" />
+<Image id="IMAGE_FROG_BOLT" path="images\FROG_BOLT.png" />
+<Image id="IMAGE_FROG_LIGHTNING_BOTTOM" path="images\FROG_LIGHTNING_BOTTOM.png" x="23" y="156" />
+<Image id="IMAGE_FROG_LIGHTNING_TOP" path="images\FROG_LIGHTNING_TOP.png" />
+<Image id="IMAGE_FROG_SPIN_FRAMES" path="images\FROG_SPIN_FRAMES.png" rows="3" />
+<Image id="IMAGE_FROG_SLOBBER" path="images\FROG_SLOBBER.png" />
+<Image id="IMAGE_FROG_LAZER" path="images\FROG_LAZER.png" />
+<Image id="IMAGE_FROG_LAZER_EYE_LOOP" path="images\FROG_LAZER_EYE_LOOP.png" rows="25" />
+<Image id="IMAGE_FROG_RUNE_BLUE" path="images\FROG_RUNE_BLUE.png" />
+<Image id="IMAGE_FROG_RUNE_YELLOW" path="images\FROG_RUNE_YELLOW.png" />
+<Image id="IMAGE_FROG_RUNE_RED" path="images\FROG_RUNE_RED.png" />
+<Image id="IMAGE_FROG_RUNE_GREEN" path="images\FROG_RUNE_GREEN.png" />
+<Image id="IMAGE_FROG_RUNE_PURPLE" path="images\FROG_RUNE_PURPLE.png" />
+<Image id="IMAGE_FROG_RUNE_WHITE" path="images\FROG_RUNE_WHITE.png" />
+<Image id="IMAGE_FROG_RUNE_GOLD" path="images\FROG_RUNE_GOLD.png" />
+<Image id="IMAGE_SICK_FROG_BOTTOM" path="images\SICK_FROG_BOTTOM.png" x="20" y="34" />
+<Image id="IMAGE_SICK_FROG_TOP" path="images\SICK_FROG_TOP.png" />
+<Image id="IMAGE_PLAGUE_FROG_BOTTOM" path="images\PLAGUE_FROG_BOTTOM.png" x="83" y="27" />
+<Image id="IMAGE_PLAGUE_FROG_TOP" path="images\PLAGUE_FROG_TOP.png" />
+<Image id="IMAGE_FROG_SHADOW" path="images\FROG_SHADOW.png" rows="2" />
+<Image id="IMAGE_QUESTION_MARK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_FROG_BEAM_A" path="images\FROG_BEAM_A.png" />
+<Image id="IMAGE_FROG_BEAM_B" path="images\FROG_BEAM_B.png" />
+<Image id="IMAGE_FROG_BEAM_C" path="images\FROG_BEAM_C.png" />
+<Image id="IMAGE_FROG_LAZER_BODY" path="images\FROG_LAZER_BODY.png" />
+<Image id="IMAGE_FROG_BACKFLASH" path="images\FROG_BACKFLASH.png" cols="2" rows="2" />
+<Image id="IMAGE_FROG_BACKPULSE" path="images\FROG_BACKPULSE.png" cols="2" rows="2" />
+<Image id="IMAGE_FROG_ELECTRIC_ORB" path="images\FROG_ELECTRIC_ORB.png" rows="8" />
+<Image id="IMAGE_SPARKLE" path="images\SPARKLE.png" cols="14" />
+<Image id="IMAGE_PART_FAT" path="images\PART_FAT.png" />
+<Image id="IMAGE_PART_LESSFAT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLE_BIG_STAR" path="images\PARTICLE_BIG_STAR.png" />
+<Image id="IMAGE_PARTICLE_FUZZY_CIRCLE" path="images\PARTICLE_FUZZY_CIRCLE.png" />
+<Image id="IMAGE_PARTICLE_CLOUD_ANIM" path="images\PARTICLE_CLOUD_ANIM.png" cols="4" rows="2" />
+<Image id="IMAGE_GUI_GOLD_BALL" path="images\GUI_GOLD_BALL.png" rows="15" />
+<Image id="IMAGE_GUI_PROGRESS_TOP" path="images\GUI_PROGRESS_TOP.png" />
+<Image id="IMAGE_GUI_PROGRESS_LIGHT" path="images\GUI_PROGRESS_LIGHT.png" />
+<Image id="IMAGE_GUI_ARROW" path="images\GUI_ARROW.png" />
+<Image id="IMAGE_GUI_BALLIMAGE" path="images\GUI_BALLIMAGE.png" />
+<Image id="IMAGE_GUI_EQUALIMAGE" path="images\GUI_EQUALIMAGE.png" />
+<Image id="IMAGE_GUI_FROG_LIFE_LARGE" path="images\GUI_FROG_LIFE_LARGE.png" />
+<Image id="IMAGE_GUI_FROGLIFE" path="images\GUI_FROGLIFE.png" />
+<Image id="IMAGE_TRANSPARENT_HOLE" path="images\TRANSPARENT_HOLE.png" />
+<Image id="IMAGE_BOSSES_LAME_EGG_PIECES" path="images\BOSSES_LAME_EGG_PIECES.png" />
+<Image id="IMAGE_PARTICLE_BEAM" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLE_BLOBULE" path="images\PARTICLE_BLOBULE.png" />
+<Image id="IMAGE_PARTICLE_BLOTCHES" path="images\PARTICLE_BLOTCHES.png" cols="3" rows="2" />
+<Image id="IMAGE_PARTICLE_CLOUD" path="images\PARTICLE_CLOUD.png" />
+<Image id="IMAGE_PARTICLE_FLAME_STREAK" path="images\PARTICLE_FLAME_STREAK.png" />
+<Image id="IMAGE_PARTICLE_FUZZ" path="images\PARTICLE_FUZZ.png" />
+<Image id="IMAGE_PARTICLE_GAS" path="images\PARTICLE_GAS.png" />
+<Image id="IMAGE_PARTICLE_RING" path="images\PARTICLE_RING.png" />
+<Image id="IMAGE_PARTICLE_ROUND" path="images\PARTICLE_ROUND.png" />
+<Image id="IMAGE_PARTICLE_ROUND_DENSE" path="images\PARTICLE_ROUND_DENSE.png" />
+<Image id="IMAGE_PARTICLE_SMALLBURST" path="images\PARTICLE_SMALLBURST.png" />
+<Image id="IMAGE_PARTICLE_SMOKE" path="images\PARTICLE_SMOKE.png" />
+<Image id="IMAGE_PARTICLE_SMOKE_COLOR" path="images\PARTICLE_SMOKE_COLOR.png" />
+<Image id="IMAGE_PARTICLE_SPIKEYCIRCLE" path="images\PARTICLE_SPIKEYCIRCLE.png" />
+<Image id="IMAGE_PARTICLE_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLE_STARBURST" path="images\PARTICLE_STARBURST.png" />
+<Image id="IMAGE_PARTICLE_STREAKS" path="images\PARTICLE_STREAKS.png" />
+<Image id="IMAGE_PARTICLE_WAVE" path="images\PARTICLE_WAVE.png" />
+<Image id="IMAGE_PARTICLE_WEB" path="images\PARTICLE_WEB.png" />
+<Image id="IMAGE_PARTICLE_WIDE_STAR" path="images\PARTICLE_WIDE_STAR.png" />
+<Font id="FONT_CCBATTLECRY26" path="fonts\FONT_CCBATTLECRY26.txt" />
+<Font id="FONT_CHECKPOINT_CURSIVE" path="fonts\FONT_CHECKPOINT_CURSIVE.txt" />
+<Sound id="SOUND_ACE_MINI_CROWN_IMPACT" path="sounds\ace_mini_crown_impact" />
+<Sound id="SOUND_BAMBOO_CLOSE" path="sounds\bambooclose" />
+<Sound id="SOUND_BOSS_DARK_FROG_DIES" path="sounds\dies" />
+<Sound id="SOUND_BOSS_DARK_FROG_FIRES" path="sounds\fires" />
+<Sound id="SOUND_BOSS_DARK_FROG_HIT" path="sounds\hit" />
+<Sound id="SOUND_BOSS_DEVIL_DEATH" path="sounds\death" />
+<Sound id="SOUND_BOSS_DEVIL_ESSENCE_HIT" path="sounds\essence_hit" />
+<Sound id="SOUND_BOSS_DEVIL_EXPLODES" path="sounds\explodes" />
+<Sound id="SOUND_BOSS_DEVIL_FIRES" path="sounds\sounds_boss_devil_fires" />
+<Sound id="SOUND_BOSS_DEVIL_HIT" path="sounds\sounds_boss_devil_hit" />
+<Sound id="SOUND_BOSS_STONE_BERSERK" path="sounds\berserk" />
+<Sound id="SOUND_BOSS_STONE_COCONUT_DROP" path="sounds\coconut_drop" />
+<Sound id="SOUND_BOSS_STONE_EYE_LASER" path="sounds\eye_laser" />
+<Sound id="SOUND_BOSS_STONE_EYE_LASER_BOUNCE" path="sounds\eye_laser_bounce" />
+<Sound id="SOUND_BOSS_STONE_HIT" path="sounds\sounds_boss_stone_hit" />
+<Sound id="SOUND_BOSS_STONE_TRANSFORM" path="sounds\transform" />
+<Sound id="SOUND_DEATH_SKULL_CHOMP" path="sounds\death_skull_chomp" />
+<Sound id="SOUND_ENERGYWEAPONFIRE" path="sounds\energyweaponfire" />
+<Sound id="SOUND_FIGHT" path="sounds\fight" />
+<Sound id="SOUND_FROG_FALL" path="sounds\frogfall" />
+<Sound id="SOUND_FROG_LAUNCH" path="sounds\froglaunch" />
+<Sound id="SOUND_FROG_MENU_LEAP" path="sounds\frog_menu_leap" />
+<Sound id="SOUND_FRUITDISAPPEARS" path="sounds\fruitdisappears" />
+<Sound id="SOUND_MAPZOOMIN" path="sounds\mapzoomin" />
+<Sound id="SOUND_MAPZOOMUP" path="sounds\mapzoomup" />
+<Sound id="SOUND_MINI_CROWN_IMPACT" path="sounds\mini_crown_impact" />
+<Sound id="SOUND_NEW_ADV_STATS_TALLY" path="sounds\adv_stats_tally" />
+<Sound id="SOUND_NEW_BOSS_BATTLE_INTRO" path="sounds\boss_battle_intro" />
+<Sound id="SOUND_NEW_BURNINGFROGLOOP" path="sounds\burningfrogloop" />
+<Sound id="SOUND_NEW_CHALLENGE_ACE_MET" path="sounds\challenge_ace_met" />
+<Sound id="SOUND_NEW_CHALLENGE_ACE_VICTORY" path="sounds\challenge_ace_victory" />
+<Sound id="SOUND_NEW_CHALLENGE_SCORE_MET" path="sounds\challenge_score_met" />
+<Sound id="SOUND_NEW_CHALLENGE_SCORE_VICTORY" path="sounds\challenge_score_victory" />
+<Sound id="SOUND_NEW_CHALLENGE_TALLY_BONUS" path="sounds\challenge_tally_bonus" />
+<Sound id="SOUND_NEW_CHICKEN_FLEE" path="sounds\chicken_flee" />
+<Sound id="SOUND_NEW_CHICKEN_SURRENDER" path="sounds\chicken_surrender" />
+<Sound id="SOUND_NEW_CLOAKED_CLAP" path="sounds\cloaked_clap" />
+<Sound id="SOUND_NEW_CLOAKED_DAIS_LANDING" path="sounds\cloaked_dais_landing" />
+<Sound id="SOUND_NEW_DAIS_LOWERING" path="sounds\dais_lowering" />
+<Sound id="SOUND_NEW_DAIS_RUMBLE" path="sounds\dais_rumble" />
+<Sound id="SOUND_NEW_EXTRA_LIFE" path="sounds\extra_life" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_GAMEOVER" path="sounds\fake_credits_gameover" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_IDOL" path="sounds\fake_credits_idol" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_IDOL_TALKING" path="sounds\fake_credits_idol_talking" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_MOUTH_CLOSE" path="sounds\fake_credits_mouth_close" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_MUSIC" path="sounds\fake_credits_music" />
+<Sound id="SOUND_NEW_FAKE_CREDITS_YOUWIN" path="sounds\fake_credits_youwin" />
+<Sound id="SOUND_NEW_FIREHITFROG" path="sounds\firehitfrog" />
+<Sound id="SOUND_NEW_HULAGIRLHIT" path="sounds\hulagirlhit" />
+<Sound id="SOUND_NEW_IRON_FROG_UNLOCKED" path="sounds\iron_frog_unlocked" />
+<Sound id="SOUND_NEW_LEVELS_UNLOCKED" path="sounds\levels_unlocked" />
+<Sound id="SOUND_NEW_NEW_ZONE_UNLOCKED" path="sounds\new_zone_unlocked" />
+<Sound id="SOUND_NEW_SHADOW_GUY_APPEARS" path="sounds\shadow_guy_appears" />
+<Sound id="SOUND_NEW_SLOW" path="sounds\slow" />
+<Sound id="SOUND_NEW_STOMP" path="sounds\stomp" />
+<Sound id="SOUND_NEW_TIGER_BOSS_SMASH" path="sounds\tiger_boss_smash" />
+<Sound id="SOUND_NEW_TIME_UP_CHALLENGE" path="sounds\time_up_challenge" />
+<Sound id="SOUND_NEW_TORCH_EXTINGUISHED" path="sounds\torch_extinguished" />
+<Sound id="SOUND_SKELETONHIT_POWERUP" path="sounds\skeletonhit_powerup" />
+<Sound id="SOUND_STONE_DRAG" path="sounds\stone_drag" />
+<Sound id="SOUND_WALLBALL" path="sounds\wallball" />
+</Resources>
+
+<Resources id="CommonGauntlet">
+<Image id="IMAGE_UI_GAUNTLET_HIGHSCORES" path="images\UI_GAUNTLET_HIGHSCORES.png" />
+<Image id="IMAGE_UI_GAUNTLET_TRYAGAIN" path="images\UI_GAUNTLET_TRYAGAIN.png" />
+<Image id="IMAGE_UI_GAUNTLET_SUCCESS" path="images\UI_GAUNTLET_SUCCESS.png" />
+<Image id="IMAGE_UI_GAUNTLET_VICTORY" path="images\UI_GAUNTLET_VICTORY.png" />
+<Image id="IMAGE_GAUNTLET_MAIN_BAR_BONUS_OFF" path="images\GAUNTLET_MAIN_BAR_BONUS_OFF.png" x="537" y="-32" />
+<Image id="IMAGE_GAUNTLET_MAIN_BAR_BONUS_ON" path="images\GAUNTLET_MAIN_BAR_BONUS_ON.png" x="563" y="-3" />
+<Image id="IMAGE_GAUNTLET_ROLLER_NUMBERS" path="images\GAUNTLET_ROLLER_NUMBERS.png" rows="11" />
+<Image id="IMAGE_GAUNTLET_ROLLER_BAR" path="images\GAUNTLET_ROLLER_BAR.png" />
+<Image id="IMAGE_UI_CHALLENGE_GAUGE_EMPTY" path="images\UI_CHALLENGE_GAUGE_EMPTY.png" />
+<Image id="IMAGE_UI_CHALLENGE_GAUGE_FILL" path="images\UI_CHALLENGE_GAUGE_FILL.png" />
+<Image id="IMAGE_GAUNTLET_MAIN_BAR_TIMER_FLASH" path="images\GAUNTLET_MAIN_BAR_TIMER_FLASH.png" x="222" y="7" />
+</Resources>
+
+<Resources id="Credits">
+<Image id="IMAGE_CREDITS_IMAGES_1" path="images\CREDITS_IMAGES_1.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_2" path="images\CREDITS_IMAGES_2.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_3" path="images\CREDITS_IMAGES_3.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_4" path="images\CREDITS_IMAGES_4.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_5" path="images\CREDITS_IMAGES_5.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_6" path="images\CREDITS_IMAGES_6.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_7" path="images\CREDITS_IMAGES_7.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_8" path="images\CREDITS_IMAGES_8.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_9" path="images\CREDITS_IMAGES_9.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_10" path="images\CREDITS_IMAGES_10.png" x="59" y="37" />
+<Image id="IMAGE_CREDITS_IMAGES_POLAROID" path="images\CREDITS_IMAGES_POLAROID.png" />
+<Image id="IMAGE_CREDITS_ZUMA" path="images\CREDITS_ZUMA.png" />
+</Resources>
+
+<Resources id="Distortion">
+<Image id="IMAGE_FX_DISTORTION_BUMP" path="images\FX_DISTORTION_BUMP.png" />
+</Resources>
+
+<Resources id="Dynamic">
+<Image id="IMAGE_PARTICLES_END_LEVEL_EXPLOSION_1_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_L2_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_L3_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_L4_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_L5_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_L6_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_AREA_STATS_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_CHALLENGE_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GOLDSPARKLE_RISEUP_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_0_COMIC_SMOKE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_1_BLURRED_SPIKEY_STAR_DARKER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_3_BLUE1" path="images\PARTICLES_BALL_EXPLODE_3_BLUE1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_8_GREEN1" path="images\PARTICLES_BALL_EXPLODE_8_GREEN1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_9_GREEN1" path="images\PARTICLES_BALL_EXPLODE_9_GREEN1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_10_PURPLE1" path="images\PARTICLES_BALL_EXPLODE_10_PURPLE1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_11_PURPLE1" path="images\PARTICLES_BALL_EXPLODE_11_PURPLE1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_12_WHITE1" path="images\PARTICLES_BALL_EXPLODE_12_WHITE1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_13_WHITE1" path="images\PARTICLES_BALL_EXPLODE_13_WHITE1.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_BOSSESSENCE_0_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOSSESSENCE_1_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEATH_AURA_0_SPARK_ALT2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEATH_AURA_1_WISP0004" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEATH_EXPLOSION_0_COMIC_SMOKE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEATH_EXPLOSION_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEATH_EXPLOSION_2_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_END_LEVEL_EXPLOSION_0_PLUMED" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_END_LEVEL_EXPLOSION_2_COMIC_SMOKE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_END_LEVEL_EXPLOSION_3_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLBOTTOM_0_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLBOTTOM_1_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLBOTTOM2D_0_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLBOTTOM2D_1_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BEAM_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BEAM_1_LASER_GLOW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BURN_0_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_0_TWIRL_SOFT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_1_SOFTSTICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_2_SPARK_ALT2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_3_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_4_CLOUD_WITH_SPECKS" path="images\PARTICLES_LB_EXPLOSION_4_CLOUD_WITH_SPECKS.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_5_TWIRLA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_6_CHUNKA" path="images\PARTICLES_LB_EXPLOSION_6_CHUNKA.png" />
+<Image id="IMAGE_PARTICLES_LB_PARTICLES_0_CLOUD_WITH_SPECKS" path="images\PARTICLES_LB_PARTICLES_0_CLOUD_WITH_SPECKS.png" />
+<Image id="IMAGE_PARTICLES_LB_PARTICLES_1_TWIRL_SOFT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_PARTICLES_2_SOFTSTICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_PARTICLES_2D_0_CLOUD_WITH_SPECKS" path="images\PARTICLES_LB_PARTICLES_2D_0_CLOUD_WITH_SPECKS.png" />
+<Image id="IMAGE_PARTICLES_LB_PARTICLES_3_SMOKE" path="images\PARTICLES_LB_PARTICLES_3_SMOKE.png" />
+<Image id="IMAGE_PARTICLES_PPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_PPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_RPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_RPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_SHIELD_ZAP_0_LIGHTNING" path="images\PARTICLES_SHIELD_ZAP_0_LIGHTNING.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_SHIELD_ZAP_1_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_SHIELD_ZAP_2_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_SHIELDSPARKLES_0_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_SMOKEYBREATH_0_WATERFALL0040" path="images\PARTICLES_SMOKEYBREATH_0_WATERFALL0040.png" cols="2" rows="2" />
+<Image id="IMAGE_PARTICLES_STONEBOSSPROJEXPLOSION_0_TEXTURE_01" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TRIANGLEEXPLOSIONLINE_0_ENERGYSHAPES_TRIANGLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TRIANGLEEXPLOSIONTIKI_0_ENERGYSHAPES_TRIANGLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_WPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_WPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_YPI_0_HEAT_WAVE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_YPI_1_FIREBALL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_ACORNMUSH_ACORNSQUASH" path="images\ANIMS_ACORNMUSH_ACORNSQUASH.png" />
+<Image id="IMAGE_ANIMS_ACORNMUSH_SMUSH" path="images\ANIMS_ACORNMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_BANANAMUSH_BANANA" path="images\ANIMS_BANANAMUSH_BANANA.png" />
+<Image id="IMAGE_ANIMS_BANANAMUSH_SMUSH" path="images\ANIMS_BANANAMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_BOLTEFFECT_LIGHTNING_1" path="images\ANIMS_BOLTEFFECT_LIGHTNING_1.png" />
+<Image id="IMAGE_ANIMS_BOLTEFFECT_LIGHTNING_2" path="images\ANIMS_BOLTEFFECT_LIGHTNING_2.png" />
+<Image id="IMAGE_ANIMS_BOLTEFFECT_LIGHTNING_3" path="images\ANIMS_BOLTEFFECT_LIGHTNING_3.png" />
+<Image id="IMAGE_ANIMS_BOLTEFFECT_LIGHTNING_6" path="images\ANIMS_BOLTEFFECT_LIGHTNING_6.png" />
+<Image id="IMAGE_ANIMS_COCOAMUSH_COCOAPUFF" path="images\ANIMS_COCOAMUSH_COCOAPUFF.png" />
+<Image id="IMAGE_ANIMS_COCOAMUSH_SMUSH" path="images\ANIMS_COCOAMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_COCONUTMUSH_COCONUTSHARD" path="images\ANIMS_COCONUTMUSH_COCONUTSHARD.png" />
+<Image id="IMAGE_ANIMS_COCONUTMUSH_SMUSH" path="images\ANIMS_COCONUTMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_BURNING_FROG_BOTTOM" path="images\ANIMS_FIREBREATHDE150_BURNING_FROG_BOTTOM.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_BURNING_FROG_HALO" path="images\ANIMS_FIREBREATHDE150_BURNING_FROG_HALO.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_BURNING_FROG_PUPIL" path="images\ANIMS_FIREBREATHDE150_BURNING_FROG_PUPIL.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_BURNING_FROG_TOP" path="images\ANIMS_FIREBREATHDE150_BURNING_FROG_TOP.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FIREBREATHDEBOTTOM150_0_DSHAPE005" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FIREBREATHDEBOTTOM150_1_TRUEFLAME5X" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FRAME_1" path="images\ANIMS_FIREBREATHDE150_FRAME_1.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FRAME_4_4_BLINK" path="images\ANIMS_FIREBREATHDE150_FRAME_4_4_BLINK.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FRAME_4_4_PUPIL" path="images\ANIMS_FIREBREATHDE150_FRAME_4_4_PUPIL.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FRAME_4_LAYER_0" path="images\ANIMS_FIREBREATHDE150_FRAME_4_LAYER_0.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FRAME_5" path="images\ANIMS_FIREBREATHDE150_FRAME_5.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_BURNING_FROG_BOTTOM" path="images\ANIMS_FIREBREATHDE250_BURNING_FROG_BOTTOM.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_BURNING_FROG_HALO" path="images\ANIMS_FIREBREATHDE250_BURNING_FROG_HALO.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_BURNING_FROG_PUPIL" path="images\ANIMS_FIREBREATHDE250_BURNING_FROG_PUPIL.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_BURNING_FROG_TOP" path="images\ANIMS_FIREBREATHDE250_BURNING_FROG_TOP.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FIREBREATHDEBOTTOM250_0_DSHAPE005" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FIREBREATHDEBOTTOM250_1_TRUEFLAME5X" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FRAME_1" path="images\ANIMS_FIREBREATHDE250_FRAME_1.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FRAME_4_4_BLINK" path="images\ANIMS_FIREBREATHDE250_FRAME_4_4_BLINK.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FRAME_4_4_PUPIL" path="images\ANIMS_FIREBREATHDE250_FRAME_4_4_PUPIL.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FRAME_4_LAYER_0" path="images\ANIMS_FIREBREATHDE250_FRAME_4_LAYER_0.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FRAME_5" path="images\ANIMS_FIREBREATHDE250_FRAME_5.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_BLACKFROG" path="images\ANIMS_FROG_HIT_125_BLACKFROG.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_FRAME_2" path="images\ANIMS_FROG_HIT_125_FRAME_2.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_FRAME_3" path="images\ANIMS_FROG_HIT_125_FRAME_3.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_FRAME_4" path="images\ANIMS_FROG_HIT_125_FRAME_4.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_HIT125_0_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_HIT125_1_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_125_HIT125_2_SPARK_ALT2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_BLACKFROG" path="images\ANIMS_FROG_HIT_175_BLACKFROG.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_FRAME_2" path="images\ANIMS_FROG_HIT_175_FRAME_2.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_FRAME_3" path="images\ANIMS_FROG_HIT_175_FRAME_3.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_FRAME_4" path="images\ANIMS_FROG_HIT_175_FRAME_4.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_HIT175_0_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_HIT175_1_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FROG_HIT_175_HIT175_2_SPARK_ALT2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_1" path="images\ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_1.png" />
+<Image id="IMAGE_ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_2" path="images\ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_2.png" />
+<Image id="IMAGE_ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_3" path="images\ANIMS_HULAGIRLDEATH_GURL_KILL_LAYER_3.png" />
+<Image id="IMAGE_ANIMS_MANGOMUSH_MANGOSLICE" path="images\ANIMS_MANGOMUSH_MANGOSLICE.png" />
+<Image id="IMAGE_ANIMS_MANGOMUSH_SMUSH" path="images\ANIMS_MANGOMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_PINEAPPLEMUSH_PINEAPPLESLICE" path="images\ANIMS_PINEAPPLEMUSH_PINEAPPLESLICE.png" />
+<Image id="IMAGE_ANIMS_PINEAPPLEMUSH_SMUSH" path="images\ANIMS_PINEAPPLEMUSH_SMUSH.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_BURST_0_BLURRED_SPLOTCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_BURST_1_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_2" path="images\ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_2.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_3" path="images\ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_3.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_4" path="images\ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_4.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_5" path="images\ANIMS_SHADOW_DAMAGE_DAMAGED_DARK_FROG_5.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_DARK_FROG_TONGUE" path="images\ANIMS_SHADOW_DAMAGE_DARK_FROG_TONGUE.png" />
+<Image id="IMAGE_ANIMS_SHADOW_DAMAGE_FROG_HALO" path="images\ANIMS_SHADOW_DAMAGE_FROG_HALO.png" />
+</Resources>
+
+<Resources id="Fog">
+<Image id="IMAGE_FX_FOG_1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_FX_FOG_2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_FX_FOG_3" path="images\_placeholder_8x8.png" />
+</Resources>
+
+<Resources id="GrottoSounds">
+<Sound id="SOUND_UNDERWATER_EXPLOSION" path="sounds\underwater_explosion" />
+<Sound id="SOUND_UNDERWATER_FROGFIRE" path="sounds\underwater_frogfire" />
+<Sound id="SOUND_UNDERWATER_RANDOM1" path="sounds\underwater_random" />
+<Sound id="SOUND_UNDERWATER_RANDOM2" path="sounds\underwater_whalesong1" />
+<Sound id="SOUND_UNDERWATER_RANDOM3" path="sounds\underwater_whalesong2" />
+<Sound id="SOUND_UNDERWATER_ROLL" path="sounds\underwater_roll" />
+<Sound id="SOUND_UNDERWATER_ROLLOUT" path="sounds\underwater_rollout" />
+</Resources>
+
+<Resources id="Init">
+<Image id="IMAGE_GUI_DIALOG_BUTTON" path="images\GUI_DIALOG_BUTTON.png" cols="3" />
+<Image id="IMAGE_GUI_DIALOG_BUTTON_NO_FRAME" path="images\GUI_DIALOG_BUTTON.png" />
+<Image id="IMAGE_GUI_D01" path="images\GUI_D01.png" x="375" y="95" />
+<Image id="IMAGE_GUI_D02" path="images\GUI_D02.png" x="407" y="95" />
+<Image id="IMAGE_GUI_D03" path="images\GUI_D03.png" x="434" y="178" />
+<Image id="IMAGE_GUI_D04" path="images\GUI_D04.png" x="407" y="210" />
+<Image id="IMAGE_GUI_D05" path="images\GUI_D05.png" x="375" y="245" />
+<Image id="IMAGE_GUI_D06" path="images\GUI_D06.png" x="105" y="219" />
+<Image id="IMAGE_GUI_D07" path="images\GUI_D07.png" x="73" y="245" />
+<Image id="IMAGE_GUI_D08" path="images\GUI_D08.png" y="210" />
+<Image id="IMAGE_GUI_D09" path="images\GUI_D09.png" x="1" y="178" />
+<Image id="IMAGE_GUI_D10" path="images\GUI_D10.png" y="95" />
+<Image id="IMAGE_GUI_D11" path="images\GUI_D11.png" x="73" y="94" />
+<Image id="IMAGE_GUI_D12" path="images\GUI_D12.png" x="105" />
+<Image id="IMAGE_GUI_D13" path="images\GUI_D13.png" x="146" y="259" />
+<Image id="IMAGE_GUI_DIALOG_MARQUE_BOX" path="images\GUI_DIALOG_MARQUE_BOX.png" />
+<Font id="FONT_BOSS_TAUNT" path="fonts\FONT_BOSS_TAUNT.txt" />
+<Font id="FONT_MAIN22" path="fonts\FONT_MAIN22.txt" />
+</Resources>
+
+<Resources id="Levels">
+<Image id="IMAGE_LEVELS_JUNGLE10_BKGRND" path="images\LEVELS_JUNGLE10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE1_BKGRND" path="images\LEVELS_JUNGLE1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE2_BKGRND" path="images\LEVELS_JUNGLE2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE3_BKGRND" path="images\LEVELS_JUNGLE3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE4_BKGRND" path="images\LEVELS_JUNGLE4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE5_BKGRND" path="images\LEVELS_JUNGLE5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE6_BKGRND" path="images\LEVELS_JUNGLE6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE7_BKGRND" path="images\LEVELS_JUNGLE7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE8_BKGRND" path="images\LEVELS_JUNGLE8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE9_BKGRND" path="images\LEVELS_JUNGLE9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO10_BKGRND" path="images\LEVELS_GROTTO10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO1_BKGRND" path="images\LEVELS_GROTTO1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO2_BKGRND" path="images\LEVELS_GROTTO2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO3_BKGRND" path="images\LEVELS_GROTTO3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO4_BKGRND" path="images\LEVELS_GROTTO4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO5_BKGRND" path="images\LEVELS_GROTTO5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO6_BKGRND" path="images\LEVELS_GROTTO6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO7_BKGRND" path="images\LEVELS_GROTTO7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO8_BKGRND" path="images\LEVELS_GROTTO8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_GROTTO9_BKGRND" path="images\LEVELS_GROTTO9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO10_BKGRND" path="images\LEVELS_VOLCANO10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO1_BKGRND" path="images\LEVELS_VOLCANO1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO2_BKGRND" path="images\LEVELS_VOLCANO2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO3_BKGRND" path="images\LEVELS_VOLCANO3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO4_BKGRND" path="images\LEVELS_VOLCANO4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO5_BKGRND" path="images\LEVELS_VOLCANO5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO6_BKGRND" path="images\LEVELS_VOLCANO6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO7_BKGRND" path="images\LEVELS_VOLCANO7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO8_BKGRND" path="images\LEVELS_VOLCANO8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VOLCANO9_BKGRND" path="images\LEVELS_VOLCANO9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE10_BKGRND" path="images\LEVELS_VILLAGE10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE1_BKGRND" path="images\LEVELS_VILLAGE1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE2_BKGRND" path="images\LEVELS_VILLAGE2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE3_BKGRND" path="images\LEVELS_VILLAGE3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE4_BKGRND" path="images\LEVELS_VILLAGE4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE5_BKGRND" path="images\LEVELS_VILLAGE5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE6_BKGRND" path="images\LEVELS_VILLAGE6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE7_BKGRND" path="images\LEVELS_VILLAGE7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE8_BKGRND" path="images\LEVELS_VILLAGE8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_VILLAGE9_BKGRND" path="images\LEVELS_VILLAGE9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY10_BKGRND" path="images\LEVELS_CITY10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY1_BKGRND" path="images\LEVELS_CITY1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY2_BKGRND" path="images\LEVELS_CITY2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY3_BKGRND" path="images\LEVELS_CITY3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY4_BKGRND" path="images\LEVELS_CITY4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY5_BKGRND" path="images\LEVELS_CITY5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY6_BKGRND" path="images\LEVELS_CITY6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY7_BKGRND" path="images\LEVELS_CITY7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY8_BKGRND" path="images\LEVELS_CITY8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_CITY9_BKGRND" path="images\LEVELS_CITY9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST10_BKGRND" path="images\LEVELS_COAST10_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST1_BKGRND" path="images\LEVELS_COAST1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST2_BKGRND" path="images\LEVELS_COAST2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST3_BKGRND" path="images\LEVELS_COAST3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST4_BKGRND" path="images\LEVELS_COAST4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST5_BKGRND" path="images\LEVELS_COAST5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST6_BKGRND" path="images\LEVELS_COAST6_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST7_BKGRND" path="images\LEVELS_COAST7_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST8_BKGRND" path="images\LEVELS_COAST8_BKGRND.png" />
+<Image id="IMAGE_LEVELS_COAST9_BKGRND" path="images\LEVELS_COAST9_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS1_BKGRND" path="images\LEVELS_BOSS1_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS2_BKGRND" path="images\LEVELS_BOSS2_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS3_BKGRND" path="images\LEVELS_BOSS3_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS4_BKGRND" path="images\LEVELS_BOSS4_BKGRND.png" />
+<Image id="IMAGE_LEVELS_BOSS5_BKGRND" path="images\LEVELS_BOSS5_BKGRND.png" />
+<Image id="IMAGE_LEVELS_JUNGLE10_CHUTE1" path="images\LEVELS_JUNGLE10_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_JUNGLE10_CHUTE2" path="images\LEVELS_JUNGLE10_CHUTE2.png" y="473" />
+<Image id="IMAGE_LEVELS_JUNGLE10_CHUTE3" path="images\LEVELS_JUNGLE10_CHUTE3.png" x="1376" y="585" />
+<Image id="IMAGE_LEVELS_JUNGLE1_CHUTE1" path="images\LEVELS_JUNGLE1_CHUTE1.png" y="7" />
+<Image id="IMAGE_LEVELS_JUNGLE1_CHUTE2" path="images\LEVELS_JUNGLE1_CHUTE2.png" y="76" />
+<Image id="IMAGE_LEVELS_JUNGLE1_CHUTE3" path="images\LEVELS_JUNGLE1_CHUTE3.png" x="1572" y="40" />
+<Image id="IMAGE_LEVELS_JUNGLE2_CHUTE1" path="images\LEVELS_JUNGLE2_CHUTE1.png" x="354" />
+<Image id="IMAGE_LEVELS_JUNGLE2_CHUTE2" path="images\LEVELS_JUNGLE2_CHUTE2.png" x="1013" />
+<Image id="IMAGE_LEVELS_JUNGLE2_CHUTE3" path="images\LEVELS_JUNGLE2_CHUTE3.png" x="1682" y="1010" />
+<Image id="IMAGE_LEVELS_JUNGLE3_CHUTE1" path="images\LEVELS_JUNGLE3_CHUTE1.png" y="116" />
+<Image id="IMAGE_LEVELS_JUNGLE3_CHUTE2" path="images\LEVELS_JUNGLE3_CHUTE2.png" x="148" />
+<Image id="IMAGE_LEVELS_JUNGLE3_CHUTE3" path="images\LEVELS_JUNGLE3_CHUTE3.png" x="1695" y="53" />
+<Image id="IMAGE_LEVELS_JUNGLE3_CHUTE4" path="images\LEVELS_JUNGLE3_CHUTE4.png" x="1718" y="721" />
+<Image id="IMAGE_LEVELS_JUNGLE3_CHUTE5" path="images\LEVELS_JUNGLE3_CHUTE5.png" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE1" path="images\LEVELS_JUNGLE4_CHUTE1.png" x="94" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE2" path="images\LEVELS_JUNGLE4_CHUTE2.png" x="1559" y="922" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE3" path="images\LEVELS_JUNGLE4_CHUTE3.png" x="65" y="18" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE4" path="images\LEVELS_JUNGLE4_CHUTE4.png" x="733" y="17" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE5" path="images\LEVELS_JUNGLE4_CHUTE5.png" x="1844" y="144" />
+<Image id="IMAGE_LEVELS_JUNGLE4_CHUTE6" path="images\LEVELS_JUNGLE4_CHUTE6.png" x="1281" />
+<Image id="IMAGE_LEVELS_JUNGLE5_CHUTE1" path="images\LEVELS_JUNGLE5_CHUTE1.png" x="16" y="808" />
+<Image id="IMAGE_LEVELS_JUNGLE5_CHUTE2" path="images\LEVELS_JUNGLE5_CHUTE2.png" y="349" />
+<Image id="IMAGE_LEVELS_JUNGLE5_CHUTE3" path="images\LEVELS_JUNGLE5_CHUTE3.png" x="1327" />
+<Image id="IMAGE_LEVELS_JUNGLE5_CHUTE4" path="images\LEVELS_JUNGLE5_CHUTE4.png" x="281" y="1112" />
+<Image id="IMAGE_LEVELS_JUNGLE5_CHUTE5" path="images\LEVELS_JUNGLE5_CHUTE5.png" />
+<Image id="IMAGE_LEVELS_JUNGLE6_CHUTE1" path="images\LEVELS_JUNGLE6_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_JUNGLE6_CHUTE2" path="images\LEVELS_JUNGLE6_CHUTE2.png" y="695" />
+<Image id="IMAGE_LEVELS_JUNGLE6_CHUTE3" path="images\LEVELS_JUNGLE6_CHUTE3.png" x="224" y="457" />
+<Image id="IMAGE_LEVELS_JUNGLE6_CHUTE4" path="images\LEVELS_JUNGLE6_CHUTE4.png" x="412" y="356" />
+<Image id="IMAGE_LEVELS_JUNGLE7_CHUTE1" path="images\LEVELS_JUNGLE7_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_JUNGLE7_CHUTE2" path="images\LEVELS_JUNGLE7_CHUTE2.png" x="-67" y="886" />
+<Image id="IMAGE_LEVELS_JUNGLE7_CHUTE3" path="images\LEVELS_JUNGLE7_CHUTE3.png" x="1450" />
+<Image id="IMAGE_LEVELS_JUNGLE7_CHUTE4" path="images\LEVELS_JUNGLE7_CHUTE4.png" x="1218" y="721" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE1" path="images\LEVELS_JUNGLE8_CHUTE1.png" y="34" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE2" path="images\LEVELS_JUNGLE8_CHUTE2.png" y="773" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE3" path="images\LEVELS_JUNGLE8_CHUTE3.png" x="1365" y="221" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE4" path="images\LEVELS_JUNGLE8_CHUTE4.png" x="451" y="210" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE5" path="images\LEVELS_JUNGLE8_CHUTE5.png" x="1563" />
+<Image id="IMAGE_LEVELS_JUNGLE8_CHUTE6" path="images\LEVELS_JUNGLE8_CHUTE6.png" x="1506" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE1" path="images\LEVELS_JUNGLE9_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE2" path="images\LEVELS_JUNGLE9_CHUTE2.png" x="44" y="21" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE3" path="images\LEVELS_JUNGLE9_CHUTE3.png" y="623" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE4" path="images\LEVELS_JUNGLE9_CHUTE4.png" x="1658" y="160" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE5" path="images\LEVELS_JUNGLE9_CHUTE5.png" x="1528" y="811" />
+<Image id="IMAGE_LEVELS_JUNGLE9_CHUTE6" path="images\LEVELS_JUNGLE9_CHUTE6.png" x="1225" />
+<Image id="IMAGE_LEVELS_GROTTO10_CHUTE1" path="images\LEVELS_GROTTO10_CHUTE1.png" x="315" y="126" />
+<Image id="IMAGE_LEVELS_GROTTO10_CHUTE2" path="images\LEVELS_GROTTO10_CHUTE2.png" x="233" y="854" />
+<Image id="IMAGE_LEVELS_GROTTO10_CHUTE3" path="images\LEVELS_GROTTO10_CHUTE3.png" x="1330" y="219" />
+<Image id="IMAGE_LEVELS_GROTTO10_CHUTE4" path="images\LEVELS_GROTTO10_CHUTE4.png" x="1477" y="913" />
+<Image id="IMAGE_LEVELS_GROTTO2_CHUTE1" path="images\LEVELS_GROTTO2_CHUTE1.png" y="659" />
+<Image id="IMAGE_LEVELS_GROTTO2_CHUTE2" path="images\LEVELS_GROTTO2_CHUTE2.png" />
+<Image id="IMAGE_LEVELS_GROTTO2_CHUTE3" path="images\LEVELS_GROTTO2_CHUTE3.png" x="777" />
+<Image id="IMAGE_LEVELS_GROTTO3_GROTTO3CHUTE2" path="images\LEVELS_GROTTO3_GROTTO3CHUTE2.png" cols="2" />
+<Image id="IMAGE_LEVELS_GROTTO3_CHUTE1" path="images\LEVELS_GROTTO3_CHUTE1.png" x="377" y="603" />
+<Image id="IMAGE_LEVELS_GROTTO4_CHUTE1" path="images\LEVELS_GROTTO4_CHUTE1.png" x="31" y="429" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE1" path="images\LEVELS_GROTTO5_CHUTE1.png" y="29" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE2" path="images\LEVELS_GROTTO5_CHUTE2.png" y="468" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE3" path="images\LEVELS_GROTTO5_CHUTE3.png" x="716" y="329" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE4" path="images\LEVELS_GROTTO5_CHUTE4.png" x="938" y="942" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE5" path="images\LEVELS_GROTTO5_CHUTE5.png" x="315" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE6" path="images\LEVELS_GROTTO5_CHUTE6.png" x="871" y="35" />
+<Image id="IMAGE_LEVELS_GROTTO5_CHUTE7" path="images\LEVELS_GROTTO5_CHUTE7.png" x="1351" y="42" />
+<Image id="IMAGE_LEVELS_GROTTO6_CHUTE1" path="images\LEVELS_GROTTO6_CHUTE1.png" y="315" />
+<Image id="IMAGE_LEVELS_GROTTO7_CHUTE1" path="images\LEVELS_GROTTO7_CHUTE1.png" x="442" y="471" />
+<Image id="IMAGE_LEVELS_GROTTO8_CHUTE1" path="images\LEVELS_GROTTO8_CHUTE1.png" x="11" y="-14" />
+<Image id="IMAGE_LEVELS_GROTTO8_CHUTE2" path="images\LEVELS_GROTTO8_CHUTE2.png" x="706" />
+<Image id="IMAGE_LEVELS_GROTTO9_CHUTE1" path="images\LEVELS_GROTTO9_CHUTE1.png" y="75" />
+<Image id="IMAGE_LEVELS_GROTTO9_CHUTE2" path="images\LEVELS_GROTTO9_CHUTE2.png" y="877" />
+<Image id="IMAGE_LEVELS_VOLCANO10_CHUTE1" path="images\LEVELS_VOLCANO10_CHUTE1.png" x="1103" y="506" />
+<Image id="IMAGE_LEVELS_VOLCANO1_CHUTE1" path="images\LEVELS_VOLCANO1_CHUTE1.png" x="1452" y="268" />
+<Image id="IMAGE_LEVELS_VOLCANO2_CHUTE1" path="images\LEVELS_VOLCANO2_CHUTE1.png" x="92" />
+<Image id="IMAGE_LEVELS_VOLCANO3_VOLCANO3CHUTE3" path="images\LEVELS_VOLCANO3_VOLCANO3CHUTE3.png" cols="2" />
+<Image id="IMAGE_LEVELS_VOLCANO3_VOLCANO3CHUTE4" path="images\LEVELS_VOLCANO3_VOLCANO3CHUTE4.png" cols="2" />
+<Image id="IMAGE_LEVELS_VOLCANO3_CHUTE1" path="images\LEVELS_VOLCANO3_CHUTE1.png" x="1699" y="397" />
+<Image id="IMAGE_LEVELS_VOLCANO3_CHUTE2" path="images\LEVELS_VOLCANO3_CHUTE2.png" x="865" />
+<Image id="IMAGE_LEVELS_VOLCANO4_CHUTE1" path="images\LEVELS_VOLCANO4_CHUTE1.png" x="419" y="15" />
+<Image id="IMAGE_LEVELS_VOLCANO5_CHUTE1" path="images\LEVELS_VOLCANO5_CHUTE1.png" x="178" y="561" />
+<Image id="IMAGE_LEVELS_VOLCANO5_CHUTE2" path="images\LEVELS_VOLCANO5_CHUTE2.png" x="760" y="90" />
+<Image id="IMAGE_LEVELS_VOLCANO5_CHUTE3" path="images\LEVELS_VOLCANO5_CHUTE3.png" x="1166" y="630" />
+<Image id="IMAGE_LEVELS_VOLCANO6_CHUTE1" path="images\LEVELS_VOLCANO6_CHUTE1.png" x="61" y="60" />
+<Image id="IMAGE_LEVELS_VOLCANO6_CHUTE2" path="images\LEVELS_VOLCANO6_CHUTE2.png" x="467" y="834" />
+<Image id="IMAGE_LEVELS_VOLCANO6_CHUTE3" path="images\LEVELS_VOLCANO6_CHUTE3.png" x="1581" y="973" />
+<Image id="IMAGE_LEVELS_VOLCANO6_CHUTE4" path="images\LEVELS_VOLCANO6_CHUTE4.png" x="1416" y="887" />
+<Image id="IMAGE_LEVELS_VOLCANO6_CHUTE5" path="images\LEVELS_VOLCANO6_CHUTE5.png" x="1601" />
+<Image id="IMAGE_LEVELS_VOLCANO7_CHUTE1" path="images\LEVELS_VOLCANO7_CHUTE1.png" x="62" />
+<Image id="IMAGE_LEVELS_VOLCANO7_CHUTE2" path="images\LEVELS_VOLCANO7_CHUTE2.png" x="246" y="800" />
+<Image id="IMAGE_LEVELS_VOLCANO7_CHUTE3" path="images\LEVELS_VOLCANO7_CHUTE3.png" x="1410" />
+<Image id="IMAGE_LEVELS_VOLCANO7_CHUTE4" path="images\LEVELS_VOLCANO7_CHUTE4.png" x="1511" y="720" />
+<Image id="IMAGE_LEVELS_VOLCANO8_CHUTE1" path="images\LEVELS_VOLCANO8_CHUTE1.png" x="1304" />
+<Image id="IMAGE_LEVELS_VOLCANO8_CHUTE2" path="images\LEVELS_VOLCANO8_CHUTE2.png" x="1408" y="992" />
+<Image id="IMAGE_LEVELS_VOLCANO8_CHUTE3" path="images\LEVELS_VOLCANO8_CHUTE3.png" x="1516" y="289" />
+<Image id="IMAGE_LEVELS_VOLCANO9_CHUTE1" path="images\LEVELS_VOLCANO9_CHUTE1.png" x="208" y="752" />
+<Image id="IMAGE_LEVELS_VOLCANO9_CHUTE2" path="images\LEVELS_VOLCANO9_CHUTE2.png" x="1291" y="804" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE1" path="images\LEVELS_VILLAGE10_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE2" path="images\LEVELS_VILLAGE10_CHUTE2.png" y="719" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE3" path="images\LEVELS_VILLAGE10_CHUTE3.png" x="1120" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE4" path="images\LEVELS_VILLAGE10_CHUTE4.png" x="1642" y="61" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE5" path="images\LEVELS_VILLAGE10_CHUTE5.png" x="1642" y="516" />
+<Image id="IMAGE_LEVELS_VILLAGE10_CHUTE6" path="images\LEVELS_VILLAGE10_CHUTE6.png" x="766" y="1092" />
+<Image id="IMAGE_LEVELS_VILLAGE1_CHUTE1" path="images\LEVELS_VILLAGE1_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_VILLAGE1_CHUTE2" path="images\LEVELS_VILLAGE1_CHUTE2.png" x="1274" />
+<Image id="IMAGE_LEVELS_VILLAGE1_CHUTE3" path="images\LEVELS_VILLAGE1_CHUTE3.png" x="1688" y="255" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE1" path="images\LEVELS_VILLAGE2_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE2" path="images\LEVELS_VILLAGE2_CHUTE2.png" y="183" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE3" path="images\LEVELS_VILLAGE2_CHUTE3.png" x="1348" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE4" path="images\LEVELS_VILLAGE2_CHUTE4.png" y="461" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE5" path="images\LEVELS_VILLAGE2_CHUTE5.png" x="185" y="796" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE6" path="images\LEVELS_VILLAGE2_CHUTE6.png" x="1198" y="186" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE7" path="images\LEVELS_VILLAGE2_CHUTE7.png" x="1210" y="811" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE1" path="images\LEVELS_VILLAGE3_CHUTE1.png" x="10" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE2" path="images\LEVELS_VILLAGE3_CHUTE2.png" y="1046" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE3" path="images\LEVELS_VILLAGE3_CHUTE3.png" x="767" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE4" path="images\LEVELS_VILLAGE3_CHUTE4.png" x="699" y="939" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE5" path="images\LEVELS_VILLAGE3_CHUTE5.png" x="1773" y="775" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE6" path="images\LEVELS_VILLAGE3_CHUTE6.png" x="1715" y="23" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE7" path="images\LEVELS_VILLAGE3_CHUTE7.png" x="1594" y="734" />
+<Image id="IMAGE_LEVELS_VILLAGE3_CHUTE8" path="images\LEVELS_VILLAGE3_CHUTE8.png" x="1070" y="359" />
+<Image id="IMAGE_LEVELS_VILLAGE4_CHUTE1" path="images\LEVELS_VILLAGE4_CHUTE1.png" x="1356" y="516" />
+<Image id="IMAGE_LEVELS_VILLAGE4_CHUTE2" path="images\LEVELS_VILLAGE4_CHUTE2.png" />
+<Image id="IMAGE_LEVELS_VILLAGE4_CHUTE3" path="images\LEVELS_VILLAGE4_CHUTE3.png" x="1448" />
+<Image id="IMAGE_LEVELS_VILLAGE5_CHUTE1" path="images\LEVELS_VILLAGE5_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_VILLAGE5_CHUTE2" path="images\LEVELS_VILLAGE5_CHUTE2.png" y="416" />
+<Image id="IMAGE_LEVELS_VILLAGE5_CHUTE3" path="images\LEVELS_VILLAGE5_CHUTE3.png" x="1564" y="79" />
+<Image id="IMAGE_LEVELS_VILLAGE5_CHUTE4" path="images\LEVELS_VILLAGE5_CHUTE4.png" x="1689" y="924" />
+<Image id="IMAGE_LEVELS_VILLAGE6_CHUTE1" path="images\LEVELS_VILLAGE6_CHUTE1.png" x="376" />
+<Image id="IMAGE_LEVELS_VILLAGE6_CHUTE2" path="images\LEVELS_VILLAGE6_CHUTE2.png" y="146" />
+<Image id="IMAGE_LEVELS_VILLAGE6_CHUTE3" path="images\LEVELS_VILLAGE6_CHUTE3.png" x="1574" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE1" path="images\LEVELS_VILLAGE7_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE2" path="images\LEVELS_VILLAGE7_CHUTE2.png" y="571" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE3" path="images\LEVELS_VILLAGE7_CHUTE3.png" x="1255" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE4" path="images\LEVELS_VILLAGE7_CHUTE4.png" x="1583" y="14" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE5" path="images\LEVELS_VILLAGE7_CHUTE5.png" x="1329" y="141" />
+<Image id="IMAGE_LEVELS_VILLAGE7_CHUTE6" path="images\LEVELS_VILLAGE7_CHUTE6.png" x="1648" y="540" />
+<Image id="IMAGE_LEVELS_VILLAGE8_CHUTE1" path="images\LEVELS_VILLAGE8_CHUTE1.png" x="103" />
+<Image id="IMAGE_LEVELS_VILLAGE8_CHUTE2" path="images\LEVELS_VILLAGE8_CHUTE2.png" x="1480" y="16" />
+<Image id="IMAGE_LEVELS_VILLAGE8_CHUTE3" path="images\LEVELS_VILLAGE8_CHUTE3.png" x="1302" y="167" />
+<Image id="IMAGE_LEVELS_VILLAGE9_CHUTE1" path="images\LEVELS_VILLAGE9_CHUTE1.png" x="381" />
+<Image id="IMAGE_LEVELS_VILLAGE9_CHUTE2" path="images\LEVELS_VILLAGE9_CHUTE2.png" y="28" />
+<Image id="IMAGE_LEVELS_VILLAGE9_CHUTE3" path="images\LEVELS_VILLAGE9_CHUTE3.png" x="1602" y="53" />
+<Image id="IMAGE_LEVELS_CITY10_CHUTE1" path="images\LEVELS_CITY10_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_CITY10_CHUTE2" path="images\LEVELS_CITY10_CHUTE2.png" x="1645" y="921" />
+<Image id="IMAGE_LEVELS_CITY1_CHUTE1" path="images\LEVELS_CITY1_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_CITY2_CHUTE1" path="images\LEVELS_CITY2_CHUTE1.png" y="814" />
+<Image id="IMAGE_LEVELS_CITY2_CHUTE2" path="images\LEVELS_CITY2_CHUTE2.png" x="1275" y="198" />
+<Image id="IMAGE_LEVELS_CITY2_CHUTE3" path="images\LEVELS_CITY2_CHUTE3.png" x="1396" y="771" />
+<Image id="IMAGE_LEVELS_CITY2_CHUTE4" path="images\LEVELS_CITY2_CHUTE4.png" />
+<Image id="IMAGE_LEVELS_CITY2_CHUTE5" path="images\LEVELS_CITY2_CHUTE5.png" x="1680" />
+<Image id="IMAGE_LEVELS_CITY3_CITY3CHUTE7" path="images\LEVELS_CITY3_CITY3CHUTE7.png" cols="2" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE1" path="images\LEVELS_CITY3_CHUTE1.png" y="241" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE2" path="images\LEVELS_CITY3_CHUTE2.png" x="633" y="1050" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE3" path="images\LEVELS_CITY3_CHUTE3.png" x="1640" y="97" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE4" path="images\LEVELS_CITY3_CHUTE4.png" x="739" y="81" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE5" path="images\LEVELS_CITY3_CHUTE5.png" x="760" y="638" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE6" path="images\LEVELS_CITY3_CHUTE6.png" x="759" y="383" />
+<Image id="IMAGE_LEVELS_CITY4_CHUTE1" path="images\LEVELS_CITY4_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_CITY4_CHUTE2" path="images\LEVELS_CITY4_CHUTE2.png" x="230" y="1034" />
+<Image id="IMAGE_LEVELS_CITY4_CHUTE3" path="images\LEVELS_CITY4_CHUTE3.png" x="1534" />
+<Image id="IMAGE_LEVELS_CITY5_CHUTE1" path="images\LEVELS_CITY5_CHUTE1.png" x="286" y="17" />
+<Image id="IMAGE_LEVELS_CITY5_CHUTE2" path="images\LEVELS_CITY5_CHUTE2.png" x="957" y="161" />
+<Image id="IMAGE_LEVELS_CITY5_CHUTE3" path="images\LEVELS_CITY5_CHUTE3.png" x="1226" y="803" />
+<Image id="IMAGE_LEVELS_CITY5_CHUTE4" path="images\LEVELS_CITY5_CHUTE4.png" x="1647" />
+<Image id="IMAGE_LEVELS_CITY5_CHUTE5" path="images\LEVELS_CITY5_CHUTE5.png" x="1602" y="921" />
+<Image id="IMAGE_LEVELS_CITY6_CHUTE1" path="images\LEVELS_CITY6_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_CITY6_CHUTE2" path="images\LEVELS_CITY6_CHUTE2.png" x="1157" y="818" />
+<Image id="IMAGE_LEVELS_CITY7_CHUTE1" path="images\LEVELS_CITY7_CHUTE1.png" x="1419" y="691" />
+<Image id="IMAGE_LEVELS_CITY8_CHUTE1" path="images\LEVELS_CITY8_CHUTE1.png" x="566" y="87" />
+<Image id="IMAGE_LEVELS_CITY8_CHUTE2" path="images\LEVELS_CITY8_CHUTE2.png" x="303" y="611" />
+<Image id="IMAGE_LEVELS_CITY9_CHUTE1" path="images\LEVELS_CITY9_CHUTE1.png" x="267" />
+<Image id="IMAGE_LEVELS_CITY9_CHUTE2" path="images\LEVELS_CITY9_CHUTE2.png" x="274" y="232" />
+<Image id="IMAGE_LEVELS_CITY9_CHUTE3" path="images\LEVELS_CITY9_CHUTE3.png" x="1244" y="173" />
+<Image id="IMAGE_LEVELS_COAST10_COAST10CHUTE4" path="images\LEVELS_COAST10_COAST10CHUTE4.png" cols="2" />
+<Image id="IMAGE_LEVELS_COAST10_CHUTE1" path="images\LEVELS_COAST10_CHUTE1.png" x="114" y="6" />
+<Image id="IMAGE_LEVELS_COAST10_CHUTE2" path="images\LEVELS_COAST10_CHUTE2.png" x="858" y="45" />
+<Image id="IMAGE_LEVELS_COAST10_CHUTE3" path="images\LEVELS_COAST10_CHUTE3.png" x="1359" y="3" />
+<Image id="IMAGE_LEVELS_COAST1_CHUTE1" path="images\LEVELS_COAST1_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST1_CHUTE2" path="images\LEVELS_COAST1_CHUTE2.png" y="240" />
+<Image id="IMAGE_LEVELS_COAST1_CHUTE3" path="images\LEVELS_COAST1_CHUTE3.png" y="887" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE1" path="images\LEVELS_COAST2_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE2" path="images\LEVELS_COAST2_CHUTE2.png" x="1384" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE3" path="images\LEVELS_COAST2_CHUTE3.png" y="1017" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE4" path="images\LEVELS_COAST2_CHUTE4.png" x="1369" y="426" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE5" path="images\LEVELS_COAST2_CHUTE5.png" x="1765" y="241" />
+<Image id="IMAGE_LEVELS_COAST2_CHUTE6" path="images\LEVELS_COAST2_CHUTE6.png" x="1320" y="716" />
+<Image id="IMAGE_LEVELS_COAST3_COAST3_CHUTE6" path="images\LEVELS_COAST3_COAST3_CHUTE6.png" cols="2" />
+<Image id="IMAGE_LEVELS_COAST3_COAST3_CHUTE7" path="images\LEVELS_COAST3_COAST3_CHUTE7.png" cols="2" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE1" path="images\LEVELS_COAST3_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE2" path="images\LEVELS_COAST3_CHUTE2.png" x="659" y="1032" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE3" path="images\LEVELS_COAST3_CHUTE3.png" x="727" y="948" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE4" path="images\LEVELS_COAST3_CHUTE4.png" x="1681" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE5" path="images\LEVELS_COAST3_CHUTE5.png" y="208" />
+<Image id="IMAGE_LEVELS_COAST3_CHUTE6" path="images\LEVELS_COAST3_CHUTE6.png" x="54" y="1109" />
+<Image id="IMAGE_LEVELS_COAST4_CHUTE1" path="images\LEVELS_COAST4_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST4_CHUTE2" path="images\LEVELS_COAST4_CHUTE2.png" x="183" y="886" />
+<Image id="IMAGE_LEVELS_COAST4_CHUTE3" path="images\LEVELS_COAST4_CHUTE3.png" x="1324" y="817" />
+<Image id="IMAGE_LEVELS_COAST5_CHUTE1" path="images\LEVELS_COAST5_CHUTE1.png" x="1228" />
+<Image id="IMAGE_LEVELS_COAST5_CHUTE2" path="images\LEVELS_COAST5_CHUTE2.png" x="1583" y="55" />
+<Image id="IMAGE_LEVELS_COAST6_CHUTE1" path="images\LEVELS_COAST6_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST6_CHUTE2" path="images\LEVELS_COAST6_CHUTE2.png" x="1230" />
+<Image id="IMAGE_LEVELS_COAST6_CHUTE3" path="images\LEVELS_COAST6_CHUTE3.png" x="1156" y="928" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE1" path="images\LEVELS_COAST7_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE2" path="images\LEVELS_COAST7_CHUTE2.png" x="539" y="320" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE3" path="images\LEVELS_COAST7_CHUTE3.png" x="1586" y="25" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE4" path="images\LEVELS_COAST7_CHUTE4.png" x="1421" y="161" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE5" path="images\LEVELS_COAST7_CHUTE5.png" x="1231" />
+<Image id="IMAGE_LEVELS_COAST7_CHUTE6" path="images\LEVELS_COAST7_CHUTE6.png" y="414" />
+<Image id="IMAGE_LEVELS_COAST8_CHUTE1" path="images\LEVELS_COAST8_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST8_CHUTE2" path="images\LEVELS_COAST8_CHUTE2.png" x="982" y="15" />
+<Image id="IMAGE_LEVELS_COAST8_CHUTE3" path="images\LEVELS_COAST8_CHUTE3.png" y="238" />
+<Image id="IMAGE_LEVELS_COAST8_CHUTE4" path="images\LEVELS_COAST8_CHUTE4.png" x="1321" />
+<Image id="IMAGE_LEVELS_COAST9_CHUTE1" path="images\LEVELS_COAST9_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_COAST9_CHUTE2" path="images\LEVELS_COAST9_CHUTE2.png" x="1222" />
+<Image id="IMAGE_LEVELS_COAST9_CHUTE3" path="images\LEVELS_COAST9_CHUTE3.png" x="64" y="614" />
+<Image id="IMAGE_LEVELS_COAST9_CHUTE4" path="images\LEVELS_COAST9_CHUTE4.png" x="178" y="1001" />
+<Image id="IMAGE_LEVELS_BOSS1_CHUTE1" path="images\LEVELS_BOSS1_CHUTE1.png" y="352" />
+<Image id="IMAGE_LEVELS_BOSS1_CHUTE2" path="images\LEVELS_BOSS1_CHUTE2.png" x="1615" y="406" />
+<Image id="IMAGE_LEVELS_BOSS2_CHUTE1" path="images\LEVELS_BOSS2_CHUTE1.png" x="1633" y="635" />
+<Image id="IMAGE_LEVELS_BOSS2_CHUTE2" path="images\LEVELS_BOSS2_CHUTE2.png" y="347" />
+<Image id="IMAGE_LEVELS_BOSS2_CHUTE3" path="images\LEVELS_BOSS2_CHUTE3.png" y="643" />
+<Image id="IMAGE_LEVELS_BOSS3_CHUTE1" path="images\LEVELS_BOSS3_CHUTE1.png" y="318" />
+<Image id="IMAGE_LEVELS_BOSS3_CHUTE2" path="images\LEVELS_BOSS3_CHUTE2.png" y="659" />
+<Image id="IMAGE_LEVELS_BOSS3_CHUTE3" path="images\LEVELS_BOSS3_CHUTE3.png" x="1721" y="634" />
+<Image id="IMAGE_LEVELS_BOSS4_CHUTE1" path="images\LEVELS_BOSS4_CHUTE1.png" y="152" />
+<Image id="IMAGE_LEVELS_BOSS4_CHUTE2" path="images\LEVELS_BOSS4_CHUTE2.png" y="626" />
+<Image id="IMAGE_LEVELS_BOSS4_CHUTE3" path="images\LEVELS_BOSS4_CHUTE3.png" x="1676" y="169" />
+<Image id="IMAGE_LEVELS_BOSS5_CHUTE1" path="images\LEVELS_BOSS5_CHUTE1.png" />
+<Image id="IMAGE_LEVELS_BOSS5_CHUTE2" path="images\LEVELS_BOSS5_CHUTE2.png" y="412" />
+<Image id="IMAGE_LEVELS_BOSS5_CHUTE3" path="images\LEVELS_BOSS5_CHUTE3.png" x="1628" y="421" />
+<Image id="IMAGE_LEVELS_BOSS5_CHUTE4" path="images\LEVELS_BOSS5_CHUTE4.png" x="1609" />
+</Resources>
+
+<Resources id="Levesl">
+<Image id="IMAGE_LEVELS_VILLAGE3_VILLAGE3CHUTE9" path="images\LEVELS_VILLAGE3_VILLAGE3CHUTE9.png" cols="2" />
+</Resources>
+
+<Resources id="LoadScreen">
+<Image id="IMAGE_LS_CLICKTXT" path="images\LS_CLICKTXT.png" />
+<Image id="IMAGE_LS_BACKING" path="images\LS_BACKING.png" y="11" />
+<Image id="IMAGE_LS_BAR" path="images\LS_BAR.png" x="545" />
+<Image id="IMAGE_LS_GREENLOADEDBAR" path="images\LS_GREENLOADEDBAR.png" x="523" y="33" />
+<Image id="IMAGE_LS_L_TIKI01" path="images\LS_L_TIKI01.png" x="259" />
+<Image id="IMAGE_LS_L_TIKI02" path="images\LS_L_TIKI02.png" x="260" />
+<Image id="IMAGE_LS_R_TIKI01" path="images\LS_R_TIKI01.png" x="1296" />
+<Image id="IMAGE_LS_R_TIKI02" path="images\LS_R_TIKI02.png" x="1295" />
+<Image id="IMAGE_LS_REDLOADINGBAR" path="images\LS_REDLOADINGBAR.png" x="510" y="39" />
+<Image id="IMAGE_LS_STARFISH" path="images\LS_STARFISH.png" x="685" y="37" />
+<Image id="IMAGE_LS_CLOUD1A" path="images\LS_CLOUD1A.png" />
+<Image id="IMAGE_LS_CLOUD1B" path="images\LS_CLOUD1B.png" />
+<Image id="IMAGE_LS_CLOUD1C" path="images\LS_CLOUD1C.png" />
+<Image id="IMAGE_LS_CLOUD2A" path="images\LS_CLOUD2A.png" />
+<Image id="IMAGE_LS_CLOUD2B" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LS_CLOUD2C" path="images\LS_CLOUD2C.png" />
+<Image id="IMAGE_LS_CLOUD3A" path="images\LS_CLOUD3A.png" />
+<Image id="IMAGE_LS_CLOUD3B" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LS_CLOUD3C" path="images\LS_CLOUD3C.png" />
+<Image id="IMAGE_LS_CENTER_CLOUD" path="images\LS_CENTER_CLOUD.png" />
+<Image id="IMAGE_LS_CALM_WAVE_1" path="images\LS_CALM_WAVE_1.png" y="259" />
+<Image id="IMAGE_LS_CALM_WAVE_2" path="images\LS_CALM_WAVE_2.png" y="149" />
+<Image id="IMAGE_LS_CALM_WAVE_3" path="images\LS_CALM_WAVE_3.png" y="65" />
+<Image id="IMAGE_LS_CALM_WAVE_4" path="images\LS_CALM_WAVE_4.png" y="10" />
+<Image id="IMAGE_LS_HAPPYSKY_BKGRND" path="images\LS_HAPPYSKY_BKGRND.png" />
+<Image id="IMAGE_LS_HAPPYSKY_ISLAND1" path="images\LS_HAPPYSKY_ISLAND1.png" x="268" y="424" />
+<Image id="IMAGE_LS_HAPPYSKY_ISLAND2" path="images\LS_HAPPYSKY_ISLAND2.png" x="414" y="243" />
+<Image id="IMAGE_LS_HAPPYSKY_ISLAND3" path="images\LS_HAPPYSKY_ISLAND3.png" x="415" y="127" />
+<Image id="IMAGE_LS_HAPPYSKY_LAVA" path="images\LS_HAPPYSKY_LAVA.png" x="844" y="127" />
+<Image id="IMAGE_LS_LIGHT1" path="images\LS_LIGHT1.png" />
+<Image id="IMAGE_LS_LIGHT2" path="images\LS_LIGHT2.png" />
+<Image id="IMAGE_LS_LIGHT3" path="images\LS_LIGHT3.png" />
+<Image id="IMAGE_LS_LOGO1" path="images\LS_LOGO1.png" />
+<Image id="IMAGE_LS_LOGO2" path="images\LS_LOGO2.png" />
+<Image id="IMAGE_LS_LOGO3" path="images\LS_LOGO3.png" />
+<Image id="IMAGE_LS_LOGO4" path="images\LS_LOGO4.png" />
+<Image id="IMAGE_LS_LOGO5" path="images\LS_LOGO5.png" />
+<Image id="IMAGE_LS_RAFTANIM_FROG" path="images\LS_RAFTANIM_FROG.png" x="113" y="228" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS01" path="images\LS_RAFTANIM_PANTS01.png" x="95" y="21" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS02" path="images\LS_RAFTANIM_PANTS02.png" x="95" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS03" path="images\LS_RAFTANIM_PANTS03.png" x="95" y="19" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS04" path="images\LS_RAFTANIM_PANTS04.png" x="95" y="41" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS05" path="images\LS_RAFTANIM_PANTS05.png" x="95" y="31" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS06" path="images\LS_RAFTANIM_PANTS06.png" x="95" y="27" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS07" path="images\LS_RAFTANIM_PANTS07.png" x="96" y="52" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS08" path="images\LS_RAFTANIM_PANTS08.png" x="97" y="67" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS09" path="images\LS_RAFTANIM_PANTS09.png" x="99" y="102" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS10" path="images\LS_RAFTANIM_PANTS10.png" x="103" y="111" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS11" path="images\LS_RAFTANIM_PANTS11.png" x="103" y="111" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS12" path="images\LS_RAFTANIM_PANTS12.png" x="106" y="115" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS13" path="images\LS_RAFTANIM_PANTS13.png" x="87" y="107" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS14" path="images\LS_RAFTANIM_PANTS14.png" x="64" y="107" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS15" path="images\LS_RAFTANIM_PANTS15.png" x="50" y="108" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS16" path="images\LS_RAFTANIM_PANTS16.png" x="47" y="114" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS17" path="images\LS_RAFTANIM_PANTS17.png" x="42" y="114" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS18" path="images\LS_RAFTANIM_PANTS18.png" x="64" y="107" />
+<Image id="IMAGE_LS_RAFTANIM_PANTS19" path="images\LS_RAFTANIM_PANTS19.png" x="87" y="107" />
+<Image id="IMAGE_LS_RAFTANIM_RAFT" path="images\LS_RAFTANIM_RAFT.png" y="48" />
+<Image id="IMAGE_LS_WAVE1" path="images\LS_WAVE1.png" />
+<Image id="IMAGE_LS_WAVE2" path="images\LS_WAVE2.png" />
+<Image id="IMAGE_LS_WAVE3" path="images\LS_WAVE3.png" />
+<Image id="IMAGE_LS_WAVE4" path="images\LS_WAVE4.png" />
+<Image id="IMAGE_LS_WAVE5" path="images\LS_WAVE5.png" />
+<Sound id="SOUND_LS_STORM_LOOP" path="sounds\stormloop3" />
+<Sound id="SOUND_LS_THUNDERSTRIKE" path="sounds\thunderstrike1" />
+</Resources>
+
+<Resources id="MainSounds">
+<Sound id="SOUND_ACCURACY_BALL" path="sounds\accuracy" />
+<Sound id="SOUND_BACKWARDS_BALL" path="sounds\reverse1" />
+<Sound id="SOUND_BALLCLICK1" path="sounds\ballclick1" />
+<Sound id="SOUND_BALLCLICK2" path="sounds\ballclick2" />
+<Sound id="SOUND_BALLDESTROYED1" path="sounds\ballsdestroyed1" />
+<Sound id="SOUND_BALLDESTROYED2" path="sounds\ballsdestroyed2" />
+<Sound id="SOUND_BALLDESTROYED3" path="sounds\ballsdestroyed3" />
+<Sound id="SOUND_BALLDESTROYED4" path="sounds\ballsdestroyed4" />
+<Sound id="SOUND_BALLDESTROYED5" path="sounds\ballsdestroyed5" />
+<Sound id="SOUND_BALLFIRE" path="sounds\fireball1" />
+<Sound id="SOUND_BAR_FULL" path="sounds\chant4" />
+<Sound id="SOUND_BUTTON1" path="sounds\button1" />
+<Sound id="SOUND_BUTTON2" path="sounds\button2" />
+<Sound id="SOUND_CANNON_FIRE" path="sounds\blunderbussfire" />
+<Sound id="SOUND_CANNON_POWERUP" path="sounds\blunderbusspowerup" />
+<Sound id="SOUND_CHAIN_BONUS" path="sounds\chain1" />
+<Sound id="SOUND_CHALLENGE_BEST_SCORE" path="sounds\bestscorebeat" />
+<Sound id="SOUND_CHALLENGE_COUNTDOWN" path="sounds\challenge_countdown" />
+<Sound id="SOUND_COMBO" path="sounds\chime1" />
+<Sound id="SOUND_EXPLODE" path="sounds\bombexplode" />
+<Sound id="SOUND_GAME_OVER" path="sounds\gameover1" />
+<Sound id="SOUND_GAP_BONUS" path="sounds\gapbonus1" />
+<Sound id="SOUND_LASER_TRIGGER" path="sounds\lasertrigger" />
+<Sound id="SOUND_LAZER" path="sounds\magzap1" />
+<Sound id="SOUND_LEVEL_COMPLETE" path="sounds\levelcomplete" />
+<Sound id="SOUND_LIGHTNING_FIRED" path="sounds\colorzapfire" />
+<Sound id="SOUND_LIGHTNING_LOOP" path="sounds\lightningloop" />
+<Sound id="SOUND_LIGHTNING_TRIGGER" path="sounds\lightningtrigger" />
+<Sound id="SOUND_LILLYPAD_JUMP" path="sounds\lilypadjump1" />
+<Sound id="SOUND_MULT_ACTIVATED" path="sounds\multiplieractivated2" />
+<Sound id="SOUND_MULT_APPEAR" path="sounds\multiplierappears" />
+<Sound id="SOUND_MULT_DISAPPEAR" path="sounds\multiplierdisappears" />
+<Sound id="SOUND_POWERUP_APPEARS" path="sounds\powerup_appears2" />
+<Sound id="SOUND_POWERUP_DISAPPEARS" path="sounds\powerup_disappears" />
+<Sound id="SOUND_ROLLING" path="sounds\rolling" />
+<Sound id="SOUND_SLOWDOWN_BALL" path="sounds\slowdown" />
+<Sound id="SOUND_TIKI_APPEAR" path="sounds\tikiappears" />
+<Sound id="SOUND_TIKI_HIT" path="sounds\tikihit" />
+<Sound id="SOUND_TRAIL_LIGHT" path="sounds\lighttrail2" />
+<Sound id="SOUND_TRAIL_LIGHT_END" path="sounds\chant3" />
+<Sound id="SOUND_WARNING" path="sounds\warning1" />
+</Resources>
+
+<Resources id="MenuRelated">
+<Image id="IMAGE_UI_MAIN_MENU_CH_LEFTARROW" path="images\UI_MAIN_MENU_CH_LEFTARROW.png" cols="3" />
+<Image id="IMAGE_UI_MAIN_MENU_CH_RIGHTARROW" path="images\UI_MAIN_MENU_CH_RIGHTARROW.png" cols="3" />
+<Image id="IMAGE_UI_MAIN_MENU_CS_LOCK_ANIMATION" path="images\UI_MAIN_MENU_CS_LOCK_ANIMATION.png" cols="5" />
+<Image id="IMAGE_UI_MAIN_MENU_CH_THUMBNAILOVERLAY" path="images\UI_MAIN_MENU_CH_THUMBNAILOVERLAY.png" />
+</Resources>
+
+<Resources id="Underwater">
+<Image id="IMAGE_FX_UNDERWATER_BALL_WAKE" path="images\FX_UNDERWATER_BALL_WAKE.png" />
+<Image id="IMAGE_FX_UNDERWATER_SIDEWAKE_DARK" path="images\FX_UNDERWATER_SIDEWAKE_DARK.png" />
+<Image id="IMAGE_FX_UNDERWATER_SIDEWAKE_LIGHT" path="images\FX_UNDERWATER_SIDEWAKE_LIGHT.png" />
+</Resources>
+
+<Resources id="WPAssets">
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_2_BLUE1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_4_YELLOW1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_5_YELLOW1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_6_RED1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_7_RED1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_14_CANNON1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BALL_EXPLODE_15_CANNON1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOILING_DEVIL_HEAD_0_TRUEFLAME5X" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOILING_DEVIL_HEAD_1_CHUNKA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOSS3CANNONBLAST_0_WHOOPWHITE3_DOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOSS3CANNONBLAST_1_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_BOSS3CANNONBLAST_2_WATERFALL0080" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CANNONBLAST_0_WHOOPWHITE3_DOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CANNONBLAST_1_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CANNONBLAST_2_WATERFALL0080" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CIRCLEEXPLOSIONLINE_0_ENERGYSHAPES_CIRCLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CIRCLEEXPLOSIONTIKI_0_ENERGYSHAPES_CIRCLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CLOAKPOOF_0_COMIC_SMOKE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CLOAKPOOF_1_EDGE_BLURRED" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CLOAKPOOF_2_CURLYSMOKE01" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CLOAKTOLAMEEXPLOSION01_0_SMOKEPARTICLE256" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_CLOAKTOLAMEEXPLOSION01_1_SMOKEPARTICLE256A" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_EXPLOSION_0_BURNHALO" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_EXPLOSION_1_CHUNKA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_EXPLOSION_2_TRUEFLAME5X" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_PROJECTILE_0_BURNHALO" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_PROJECTILE_1_CHUNK1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_PROJECTILE_2_TRUEFLAME5X" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_PROJECTILE_3_CHUNKA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_DEVIL_PROJECTILE_4_PULSE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLTOP_0_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_ESSENCEEXPLTOP2D_0_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FLYSWARM_0_FLY" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FROGFOG_0_WIND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FROGFOG_1_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FROGFOG_2_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FROGFOG_3_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_FROGFOG_4_FLARE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GENERICBOSSPOOF_0_WATERFALL0040" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GODLIGHT_0_SQUARE_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_GODLIGHT_1_SLENDER_SPIKE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BLAST_0_LIGHTSHAFT01" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BLAST_1_ICE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LAZER_BLAST_2_SMALL_BLUR_STAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_2D_0_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_2D_1_CLOUD_WITH_SPECKS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LB_EXPLOSION_2D_2_TWIRLA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_LITTLECANDLE_0_CANDLE_FLAME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_STONEBOSSEYES_0_WATERFALL0040" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_STONEBOSSPROJ_0_PARTICLE_02" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_STONEBOSSPROJEXPLOSION_1_EXPLOSION_CLOUD1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_STONEBOSSPROJEXPLOSION_2_FLASHH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_STONEBOSSPROJSPARKS_0_FLASHH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TORCHFLAME_0_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TORCHFLAMEOUT_0_BASIC_BLUR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TORCHFLAMEOUT_1_TEXTURE_01" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TRIANGLEEXPLOSIONLINE_1_ENERGYSHAPES_TRIANGLEDARK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_PARTICLES_TRIANGLEEXPLOSIONTIKI_1_ENERGYSHAPES_TRIANGLEDARK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE150_FIREBREATHDETOP150_0_SMOKE_NEW04" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_FIREBREATHDE250_FIREBREATHDETOP250_0_SMOKE_NEW04" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_ANIMS_HULAGIRLDEATH_CONSUMED_0_FLAMES0000" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_ON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_OFF" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TIKI_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TIKI_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_ADVENTURE_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_ADVENTURE_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_CHALLENGE_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_CHALLENGE_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_OPTIONS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_OPTIONS_DOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_MORE_GAMES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_CLICKCONTINUE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_CLICKMENU" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_CLICKOTHER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_MOUSEOVERCONTINUE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_MOUSEOVERMENU" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_POSTCARDTEXT_MOUSEOVEROTHER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARDTEXT_CONTINUE_BUTTON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARDTEXT_CONTINUE_BUTTON_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARDTEXT_MM_BUTTON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_CHECKPOINT_POSTCARDTEXT_MM_BUTTON_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART5_BKGRND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART3_BKGRND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART2_BKGRND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_JUNGLE10_CHUTE4" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_GROTTO1_CHUTE1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_GROTTO3_CHUTE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_GROTTO9_CHUTE3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VOLCANO3_CHUTE3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE8" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VILLAGE2_CHUTE9" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VILLAGE5_CHUTE5" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VILLAGE6_CHUTE4" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_VILLAGE6_CHUTE5" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_CITY3_CHUTE7" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_CITY8_CHUTE3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_COAST6_LAYER_1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS4_CHUTE4" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART5_CHUTE1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART5_CHUTE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART5_CHUTE3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART3_CHUTE1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART3_CHUTE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART3_CHUTE3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART2_CHUTE1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_LEVELS_BOSS6PART2_CHUTE2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_SLIDER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_ADVENTURE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_BACKGROUND" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_CROWN_BOX" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_FRAME_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_GREEN_LIGHT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_RED_LIGHT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_SLIDEBOXBACK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_DIALOG_BOX_MAINMENU_THUMB" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_BAMBOOBOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_BAMBOOBOTEDGE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_BAMBOOSIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_BAMBOOTOPEDGE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_HOME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_HOME_SELECT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_LARGE_CROWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_LARGE_ACECROWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_POWERUPS_START" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_FX_FOG_START" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_FX_FOG_END" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BAMBOO_PIECE_A" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BAMBOO_PIECE_B" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BAMBOO_PIECE_C" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BAMBOO_PIECE_D" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_CROWN_HOLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_HOME_BACKING" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGE_PAGE_INDICATOR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_1_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_1_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_2_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_2_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_3_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_3_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_4" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_4_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_4_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_5" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_5_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_5_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_6" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_6_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_6_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_7" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_7_STONE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_CUPICON_ZONE_7_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES3" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES4" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES5" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAIN_MENU_LEAVES_LEAVES6" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_BG_FLOOR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_BG_SIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_CEILING_PIECE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_DIVIDER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_DRUMS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_FRUIT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_LARGE_LOCK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_LEAVES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_LOCK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_POLE_BROKEN_END" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_POLE_BROKEN_UP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_TAPESTRY_LEAVES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_TIKI_POLE_1" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_TIKI_POLE_2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_CHALLENGESCREEN_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_BOTLEFT_FOLIAGE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_BOTRIGHT_FOLIAGE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_BG" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TIKIHEAD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_TIKITEMPLE_PEDESTAL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MM_FLOWER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MM_FLOWERBOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_DOTBOX_CENTER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_DOTBOX_LEFT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_DOTBOX_RIGHT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_ENDCAP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_GUY" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_LAVA" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_MORE_GAMES_DOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_MORE_GAMES_SIGN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_RIBBIT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_BORDER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_BORDERBOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_BUTTON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_DECORATION" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_DECORATIONBOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_RIGHTENDPIECE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_SHADOW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_SCROLLMENU_WOODTEXTURE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_BL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_BOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_SIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_TAIL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_TL" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TALK_BUBBLE_TOP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_TIKI" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAP_OPENBOOK_BACK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAP_OPENBOOK_BACK_DWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_BANNER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_BOSS_CIRCLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_GREEN_CIRCLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ADVENTURE_STATS_PIP_END" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_ADVENTURESTATS_CONTINUE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_ADVENTURESTATS_CONTINUE_DOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_ASP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_BANNER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_BJ" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_BLITZ" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_BOOKWORM" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_CANDY_TRAIN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_CHUZZLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_ERI" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_ERI_HD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_KNOT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_OPTIMIZED_VERTICAL_BARS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_PEGGLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_PEGGLE_HD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_PVZ" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_PVZ_HD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_RIGHT_TIKI" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_TEMPLEARROW_DOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_TEMPLEARROW_UP" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_TIKI_SKETCH" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_MOREGAMES_WOODFRAME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BALL_START" path="images\BLUE_BALL.png" cols="10" rows="6" />
+<Image id="IMAGE_MULTIPLIER_BALL_START" path="images\MULTIPLIER_BALL_BLUE.png" cols="5" rows="3" />
+<Image id="IMAGE_CANNON_RING_START" path="images\CANNON_RING_BLUE.png" />
+<Image id="IMAGE_FIRST_POWERUP" path="images\CANNON_RING_BLUE.png" />
+<Image id="IMAGE_BLOOM_BLAST_START" path="images\BLOOM_BLAST_BLUE.png" />
+<Image id="IMAGE_BLOOM_BACKWARDS_START" path="images\BLOOM_BACKWARDS_BLUE.png" />
+<Image id="IMAGE_BLOOM_ACCURACY_START" path="images\BLOOM_ACCURACY_BLUE.png" />
+<Image id="IMAGE_BLOOM_STOP_START" path="images\BLOOM_STOP_BLUE.png" />
+<Image id="IMAGE_BLOOM_LASER_START" path="images\BLOOM_LASER_BLUE.png" />
+<Image id="IMAGE_LAST_POWERUP" path="images\BLOOM_LASER_WHITE.png" />
+<Image id="IMAGE_FROG_RUNE_START" path="images\FROG_RUNE_BLUE.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_SLOTS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_GUIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_ARROW_RED" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_BOSSUI" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_GAUNTLETFRAMECENTER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_GAUNTLETFRAMELEFT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_PAUSE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_PAUSEDOWN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_CHALLENGE_UI_TIMER_FRAME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_CONNECT_BAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_FROG_LIVES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_LEFT_JAW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_LEFT_MOUTH_LOWER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_LEFTFRAMESIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_LIVESFRAME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_RIGHT_JAW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_RIGHT_MOUTH_UPPER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_RIGHTFRAMESIDE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_SCORE_FRAME" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_INGAME_UI_WOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_PROGRESSLITEWOOD" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_GUI_SWAP_HALO" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_SHADOW2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_LEAVES2" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_BOSSES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_ARROW_LIGHT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_ARROW_LIGHT_ON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_ARROW_LIGHTF" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_ARROW_LIGHTF_ON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_LEADERBOARDS_SHADOW" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_FROGSTATUE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_FEFROG" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_CHALLENGEACCEPTED" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_FROZENFROG" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_POWERPLAYER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_C_C_C_CHAINBONUS" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_THREADTHENEEDLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_TIMEFORTADPOLES" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_YOUWIN" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_CEPHALOPODSMASHER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_PESTILENCEPACIFIER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_BONEPICKER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_TIKITRAMPLER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_ACHIEVEMENTS_JAWBREAKER" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_LEADERBOARD_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_LEADERBOARD_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_ACHIEVEMENT_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_ACHIEVEMENT_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_HELP_CLICK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_HELP_OFF_STATE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_POLE" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_UNLOCK" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_MAINMENU_UNLOCK_ON" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOOKTEXT" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_UI_AVATAR" path="images\_placeholder_8x8.png" />
+<Image id="IMAGE_BOSS_DARKFROG_ADVENTURE_WIN_STAT" path="images\_placeholder_8x8.png" />
+<Image id="ATLASIMAGE_ATLAS_ADVENTURESTATS_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_ADVENTURESTATS_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS1_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS1_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS2_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS2_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS4_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS4_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS5_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS5_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6_DARKFROG_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6_DARKFROG_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6_LAME_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6_LAME_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6COMMON_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6COMMON_320_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6COMMON_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6COMMON_640_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSS6COMMON_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSSES_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_BOSSES_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_CLOAKEDBOSS_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_CLOAKEDBOSS_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_COMMONGAME_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_COMMONGAME_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_CREDITS_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_CREDITS_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_GAMEPLAY_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_GAMEPLAY_320_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_GAMEPLAY_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_GAMEPLAY_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_INIT_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_INIT_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS3_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART1_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART1_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART1_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART3_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_BOSS6PART5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY3_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_CITY10_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST3_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST10_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST10_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_COAST10_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO3_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_GROTTO10_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE3_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_JUNGLE10_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE3_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VILLAGE10_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO1_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO2_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO3_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO3_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO3_COMMON_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO4_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO5_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO6_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO7_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO8_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO9_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LEVELS_VOLCANO10_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LOADSCREEN_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LOADSCREEN_320_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LOADSCREEN_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_LOADSCREEN_640_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MAP_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MAP_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MENURELATED_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MENURELATED_320_01" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MENURELATED_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MOREGAMES_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_MOREGAMES_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_TEXT_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_TEXT_640_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_UNDERWATER_320_00" path="images\_dummy_1x1.png" />
+<Image id="ATLASIMAGE_ATLAS_UNDERWATER_640_00" path="images\_dummy_1x1.png" />
+<Font id="FONT_SHAGEXOTICA100_BASE" path="fonts\FONT_SHAGEXOTICA100_BASE.txt" />
+<Font id="FONT_SHAGEXOTICA100_GAUNTLET" path="fonts\FONT_SHAGEXOTICA100_GAUNTLET.txt" />
+<Font id="FONT_SHAGEXOTICA100_STROKE" path="fonts\FONT_SHAGEXOTICA100_STROKE.txt" />
+<Font id="FONT_SHAGEXOTICA38_BASE" path="fonts\FONT_SHAGEXOTICA38_BASE.txt" />
+<Font id="FONT_SHAGEXOTICA38_BLACK" path="fonts\FONT_SHAGEXOTICA38_BLACK.txt" />
+<Font id="FONT_SHAGEXOTICA38_BLACK_GLOW" path="fonts\FONT_SHAGEXOTICA38_BLACK_GLOW.txt" />
+<Font id="FONT_SHAGEXOTICA38_GREEN_STROKE" path="fonts\FONT_SHAGEXOTICA38_GREEN_STROKE.txt" />
+<Font id="FONT_SHAGEXOTICA68_BASE" path="fonts\FONT_SHAGEXOTICA68_BASE.txt" />
+<Font id="FONT_SHAGEXOTICA68_BLACK" path="fonts\FONT_SHAGEXOTICA68_BLACK.txt" />
+<Font id="FONT_SHAGEXOTICA68_STROKE" path="fonts\FONT_SHAGEXOTICA68_STROKE.txt" />
+<Font id="FONT_SHAGLOUNGE28_BASE" path="fonts\FONT_SHAGLOUNGE28_BASE.txt" />
+<Font id="FONT_SHAGLOUNGE28_BROWN" path="fonts\FONT_SHAGLOUNGE28_BROWN.txt" />
+<Font id="FONT_SHAGLOUNGE28_GREEN" path="fonts\FONT_SHAGLOUNGE28_GREEN.txt" />
+<Font id="FONT_SHAGLOUNGE28_SHADOW" path="fonts\FONT_SHAGLOUNGE28_SHADOW.txt" />
+<Font id="FONT_SHAGLOUNGE28_STROKE" path="fonts\FONT_SHAGLOUNGE28_STROKE.txt" />
+<Font id="FONT_SHAGLOUNGE28_STROKE_GREEN" path="fonts\FONT_SHAGLOUNGE28_STROKE_GREEN.txt" />
+<Font id="FONT_SHAGLOUNGE38_BASE" path="fonts\FONT_SHAGLOUNGE38_BASE.txt" />
+<Font id="FONT_SHAGLOUNGE38_GAUNTLET" path="fonts\FONT_SHAGLOUNGE38_GAUNTLET.txt" />
+<Font id="FONT_SHAGLOUNGE38_GAUNTLET2" path="fonts\FONT_SHAGLOUNGE38_GAUNTLET2.txt" />
+<Font id="FONT_SHAGLOUNGE38_RED_STROKE_YELLOW" path="fonts\FONT_SHAGLOUNGE38_RED_STROKE_YELLOW.txt" />
+<Font id="FONT_SHAGLOUNGE38_STROKE" path="fonts\FONT_SHAGLOUNGE38_STROKE.txt" />
+<Font id="FONT_SHAGLOUNGE38_YELLOW" path="fonts\FONT_SHAGLOUNGE38_YELLOW.txt" />
+<Font id="FONT_SHAGLOUNGE45_BASE" path="fonts\FONT_SHAGLOUNGE45_BASE.txt" />
+<Font id="FONT_SHAGLOUNGE45_GAUNTLET" path="fonts\FONT_SHAGLOUNGE45_GAUNTLET.txt" />
+<Font id="FONT_SHAGLOUNGE45_RED" path="fonts\FONT_SHAGLOUNGE45_RED.txt" />
+<Font id="FONT_SHAGLOUNGE45_YELLOW" path="fonts\FONT_SHAGLOUNGE45_YELLOW.txt" />
+<Sound id="SOUND_BALLSWAP" path="sounds\_silence" />
+<Sound id="SOUND_BONUS100LOOP" path="sounds\_silence" />
+<Sound id="SOUND_BUTTON3" path="sounds\_silence" />
+<Sound id="SOUND_COMBO3X" path="sounds\_silence" />
+<Sound id="SOUND_LS_HAWAIIAN_STING" path="sounds\_silence" />
+<Sound id="SOUND_MIDZONE_NOTIFY" path="sounds\_silence" />
+<Sound id="SOUND_SEAGULLS" path="sounds\_silence" />
+</Resources>
+
+</ResourceManifest>

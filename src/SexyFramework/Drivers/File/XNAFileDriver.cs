@@ -29,7 +29,8 @@ namespace SexyFramework.Drivers.File
 
 		public override string GetCurPath()
 		{
-			return "";
+			// iOS: return the actual current directory (set by Program.cs to the Content folder)
+			return System.IO.Directory.GetCurrentDirectory();
 		}
 
 		public override string GetLoadDataPath()

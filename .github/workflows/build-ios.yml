@@ -9,15 +9,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup .NET
+      - name: Setup .NET 8
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: '8.0.404'
       
       - name: Install iOS workload
         run: |
-          sudo dotnet workload update
-          sudo dotnet workload install ios
+          cd /tmp
+          dotnet workload install ios
       
       - name: Build
         run: dotnet build ZumaIOS.iOS.csproj -c Release -p:BuildIpa=true

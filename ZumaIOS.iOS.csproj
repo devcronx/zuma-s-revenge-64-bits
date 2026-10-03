@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-ios</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <NoWarn>$(NoWarn);CS0219;CS0168;CS0169;CS0414;CS0649;CS0067;CS0108;CS0114;CS0252;CS0253;CS0618;CS0672;CS8321</NoWarn>
+    <!-- iOS specific -->
+    <ApplicationId>com.wilfry.zumasrevenge</ApplicationId>
+    <ApplicationVersion>1.0</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
+    <!-- For sideloading, use ad-hoc signing -->
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>Automatic</CodesignProvision>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.iOS" Version="3.8.2.1105" />
+  </ItemGroup>
+
+  <!-- Include all source files from the shared src directory -->
+  <ItemGroup>
+    <Compile Include="src/**/*.cs" Exclude="src/Program.cs" />
+    <Compile Include="src/iOS/Program.cs" />
+  </ItemGroup>
+
+</Project>

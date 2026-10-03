@@ -14,16 +14,6 @@ jobs:
         with:
           dotnet-version: '8.0.404'
       
-      - name: Check .NET version
-        run: |
-          echo "DOTNET_ROOT=$DOTNET_ROOT"
-          which dotnet
-          dotnet --version
-          dotnet --list-sdks
-      
-      - name: Install iOS workload
-        run: dotnet workload install ios
-      
       - name: Build
         run: dotnet build ZumaIOS.iOS.csproj -c Release -p:BuildIpa=true
       

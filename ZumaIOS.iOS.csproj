@@ -10,6 +10,7 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <NoWarn>$(NoWarn);CS0219;CS0168;CS0169;CS0414;CS0649;CS0067;CS0108;CS0114;CS0252;CS0253;CS0618;CS0672;CS8321</NoWarn>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <!-- iOS specific -->
     <ApplicationId>com.wilfry.zumasrevenge</ApplicationId>
     <ApplicationVersion>1.0</ApplicationVersion>

@@ -21,10 +21,19 @@ jobs:
           dotnet workload install ios
       
       - name: Build
-        run: dotnet build ZumaIOS.iOS.csproj -c Release -p:BuildIpa=true
+        run: dotnet build ZumaIOS.iOS.csproj -c Release
+      
+      - name: Create IPA
+        run: |
+          APP_PATH=$(find . -name "*.app" -type d | head -1)
+          echo "Found app: $APP_PATH"
+          mkdir -p Payload
+          cp -r "$APP_PATH" Payload/
+          zip -r ZumasRevenge.ipa Payload
+          ls -lh ZumasRevenge.ipa
       
       - name: Upload IPA
         uses: actions/upload-artifact@v4
         with:
           name: ZumasRevenge-IPA
-          path: "**/*.ipa"
+          path: "ZumasRevenge.ipa"

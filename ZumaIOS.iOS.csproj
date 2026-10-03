@@ -17,7 +17,7 @@
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
     <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
     <!-- Disable code signing for sideloading (Sideloadly/AltStore will sign) -->
-    <CodesignKey></CodesignKey>
+    <CodesignKey>-</CodesignKey>
     <CodesignProvision></CodesignProvision>
     <CodesignEntitlements></CodesignEntitlements>
   </PropertyGroup>

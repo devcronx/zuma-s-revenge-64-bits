@@ -34,8 +34,8 @@ namespace ZumasRevenge
 			this.spriteBatch = new SpriteBatch(base.GraphicsDevice);
 			try { this.mSpriteFont = base.Content.Load<SpriteFont>("Arial_20"); }
 			catch { this.mSpriteFont = null; } // iOS: no .xnb available
-			base.Window.OrientationChanged += new EventHandler<EventArgs>(this.OrientationChanged);
-			this.SexyZuma.InitText();
+			try { base.Window.OrientationChanged += new EventHandler<EventArgs>(this.OrientationChanged); } catch { } // iOS: may not support
+			try { this.SexyZuma.InitText(); } catch { } // iOS: may fail
 			if (Localization.GetCurrentLanguage() != Localization.LanguageType.Language_FR)
 			{
 				try { this.splash = base.Content.Load<Texture2D>("Default-Landscape"); }

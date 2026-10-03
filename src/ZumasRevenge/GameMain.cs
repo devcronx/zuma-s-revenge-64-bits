@@ -59,7 +59,7 @@ namespace ZumasRevenge
 			if (GameApp.mExit)
 			{
 				#pragma warning disable CS0619
-				base.Exit();
+				// iOS: Exit() not allowed
 				#pragma warning restore CS0619
 			}
 			bool isRunningSlowly = gameTime.IsRunningSlowly;
@@ -171,7 +171,7 @@ namespace ZumasRevenge
 				if (this.isLoading)
 				{
 					#pragma warning disable CS0619
-				base.Exit();
+				// iOS: Exit() not allowed
 				#pragma warning restore CS0619
 				}
 				else

@@ -1,0 +1,41 @@
+name: Build iOS IPA
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-ios:
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      
+      - name: Install iOS workload
+        run: |
+          # Try to install iOS workload, ignore if already installed
+          dotnet workload install ios --skip-sign-check || true
+          dotnet workload list
+      
+      - name: Restore
+        run: dotnet restore ZumaIOS.iOS.csproj
+      
+      - name: Build
+        run: dotnet build ZumaIOS.iOS.csproj -c Release --no-restore -p:BuildIpa=true
+      
+      - name: Find IPA
+        run: |
+          find . -name "*.ipa" -o -name "*.app" | head -10
+      
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: ZumasRevenge-IPA
+          path: |
+            **/*.ipa
+            **/*.app

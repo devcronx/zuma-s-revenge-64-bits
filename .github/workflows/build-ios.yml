@@ -1,0 +1,39 @@
+name: Build iOS IPA
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-ios:
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      
+      - name: Install iOS workload
+        run: dotnet workload install ios
+      
+      - name: Restore
+        run: dotnet restore ZumaIOS.iOS.csproj
+      
+      - name: Build
+        run: dotnet build ZumaIOS.iOS.csproj -c Release --no-restore
+      
+      - name: Create IPA
+        run: |
+          APP_PATH=$(find . -name "*.app" -type d | head -1)
+          mkdir -p Payload
+          cp -r "$APP_PATH" Payload/
+          zip -r ZumasRevenge.ipa Payload
+      
+      - name: Upload IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: ZumasRevenge-IPA
+          path: ZumasRevenge.ipa

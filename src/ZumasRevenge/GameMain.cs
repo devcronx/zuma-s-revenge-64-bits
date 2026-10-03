@@ -24,11 +24,8 @@ namespace ZumasRevenge
 			this.SexyZuma = new GameApp(this, false);
 			GlobalMembers.gSexyApp = this.SexyZuma;
 			GlobalMembers.gSexyAppBase = this.SexyZuma;
-			this.gApplicationService = PhoneApplicationService.Current;
-			this.gApplicationService.Deactivated += new EventHandler<DeactivatedEventArgs>(this.OnServiceDeactivated);
-			this.gApplicationService.Activated += new EventHandler<ActivatedEventArgs>(this.OnServiceActivated);
-			base.Components.Add(new GamerServicesComponent(this));
-			Guide.SimulateTrialMode = false;
+			// iOS: PhoneApplicationService, GamerServicesComponent and Guide are not available
+			// (Windows Phone / Xbox Live APIs)
 		}
 
 		protected override void Initialize()
@@ -65,7 +62,7 @@ namespace ZumasRevenge
 			bool isRunningSlowly = gameTime.IsRunningSlowly;
 			try
 			{
-				if (!Guide.IsVisible)
+				if (true) // iOS: Guide not available
 				{
 					base.Update(gameTime);
 				}
@@ -80,7 +77,7 @@ namespace ZumasRevenge
 			this.UpdateInput(gameTime);
 			try
 			{
-				if (Guide.IsVisible)
+				if (false) // iOS: Guide not available
 				{
 					return;
 				}
@@ -138,7 +135,7 @@ namespace ZumasRevenge
 		protected override void OnActivated(object sender, EventArgs args)
 		{
 			this.SexyZuma.OnActivated();
-			Microsoft.Phone.Shell.PhoneApplicationService.Current.RaiseActivated();
+			// iOS: no-op
 			base.OnActivated(sender, args);
 		}
 
@@ -150,7 +147,7 @@ namespace ZumasRevenge
 			}
 			this.SexyZuma.OnExiting();
 			this.SexyZuma.OnDeactivated();
-			Microsoft.Phone.Shell.PhoneApplicationService.Current.RaiseDeactivated();
+			// iOS: no-op
 			base.OnDeactivated(sender, args);
 		}
 
@@ -283,7 +280,7 @@ namespace ZumasRevenge
 
 		private static string fpsDisplayText = "";
 
-		public PhoneApplicationService gApplicationService;
+		// iOS: removed PhoneApplicationService field
 
 		private long totalBytes;
 

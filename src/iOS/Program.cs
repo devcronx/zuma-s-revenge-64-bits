@@ -20,39 +20,16 @@ namespace ZumasRevenge
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+            string bundlePath = NSBundle.MainBundle.BundlePath;
+            string contentPath = Path.Combine(bundlePath, "Content");
+            if (Directory.Exists(contentPath))
+            {
+                Directory.SetCurrentDirectory(contentPath);
+            }
             
-            try
-            {
-                string bundlePath = NSBundle.MainBundle.BundlePath;
-                string contentPath = Path.Combine(bundlePath, "Content");
-                
-                string msg = "Bundle: " + bundlePath + "\n";
-                msg += "Content exists: " + Directory.Exists(contentPath) + "\n";
-                msg += "Content path: " + contentPath;
-                
-                // Show diagnostic alert
-                var alert = UIAlertController.Create("Debug", msg, UIAlertControllerStyle.Alert);
-                alert.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
-                
-                var vc = new UIViewController();
-                Window.RootViewController = vc;
-                Window.MakeKeyAndVisible();
-                vc.PresentViewController(alert, true, null);
-                
-                // Don't start game yet, just show the debug info
-                return true;
-            }
-            catch (Exception ex)
-            {
-                var alert = UIAlertController.Create("Error", ex.ToString(), UIAlertControllerStyle.Alert);
-                alert.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
-                var vc = new UIViewController();
-                Window.RootViewController = vc;
-                Window.MakeKeyAndVisible();
-                vc.PresentViewController(alert, true, null);
-                return true;
-            }
+            var game = new GameMain();
+            game.Run();
+            return true;
         }
     }
 }

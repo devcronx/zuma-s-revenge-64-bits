@@ -2,7 +2,6 @@ using System;
 using System.IO;
 using Foundation;
 using UIKit;
-using ObjCRuntime;
 
 namespace ZumasRevenge
 {
@@ -18,13 +17,6 @@ namespace ZumasRevenge
     public class AppDelegate : UIApplicationDelegate
     {
         public override UIWindow Window { get; set; }
-
-        public override UISceneConfiguration GetConfiguration(UIApplication application, UISceneSession connectingSceneSession, UISceneConnectionOptions options)
-        {
-            var config = new UISceneConfiguration("Default Configuration", connectingSceneSession.Role);
-            config.DelegateClass = ObjCRuntime.Class.GetHandle(typeof(SceneDelegate));
-            return config;
-        }
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {

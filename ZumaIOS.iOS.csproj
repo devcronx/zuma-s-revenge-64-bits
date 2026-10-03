@@ -16,10 +16,10 @@
     <ApplicationVersion>1.0</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
     <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
-    <!-- For sideloading, use ad-hoc signing -->
-    <CodesignKey>iPhone Developer</CodesignKey>
-    <CodesignProvision>Automatic</CodesignProvision>
-    <BuildIpa>true</BuildIpa>
+    <!-- Disable code signing for sideloading (Sideloadly/AltStore will sign) -->
+    <CodesignKey></CodesignKey>
+    <CodesignProvision></CodesignProvision>
+    <CodesignEntitlements></CodesignEntitlements>
   </PropertyGroup>
 
   <ItemGroup>

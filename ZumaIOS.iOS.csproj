@@ -26,6 +26,11 @@
     <PackageReference Include="MonoGame.Framework.iOS" Version="3.8.2.1105" />
   </ItemGroup>
 
+  <!-- Include game assets as bundle resources -->
+  <ItemGroup>
+    <BundleResource Include="Content/**/*" />
+  </ItemGroup>
+
   <!-- Include all source files from the shared src directory -->
   <ItemGroup>
     <Compile Include="src/**/*.cs" Exclude="src/Program.cs" />

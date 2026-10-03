@@ -5,7 +5,6 @@ using UIKit;
 
 namespace ZumasRevenge
 {
-    // iOS entry point
     public class Application
     {
         static void Main(string[] args)
@@ -21,27 +20,39 @@ namespace ZumasRevenge
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+            
             try
             {
-                // Set current directory to the Content folder in the app bundle
-                // so the game's ResourceManager can find the assets
                 string bundlePath = NSBundle.MainBundle.BundlePath;
                 string contentPath = Path.Combine(bundlePath, "Content");
-                if (Directory.Exists(contentPath))
-                {
-                    Directory.SetCurrentDirectory(contentPath);
-                }
                 
-                var game = new GameMain();
-                game.Run();
+                string msg = "Bundle: " + bundlePath + "\n";
+                msg += "Content exists: " + Directory.Exists(contentPath) + "\n";
+                msg += "Content path: " + contentPath;
+                
+                // Show diagnostic alert
+                var alert = UIAlertController.Create("Debug", msg, UIAlertControllerStyle.Alert);
+                alert.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
+                
+                var vc = new UIViewController();
+                Window.RootViewController = vc;
+                Window.MakeKeyAndVisible();
+                vc.PresentViewController(alert, true, null);
+                
+                // Don't start game yet, just show the debug info
+                return true;
             }
             catch (Exception ex)
             {
-                // Log the exception to help debugging
-                Console.WriteLine("FATAL: " + ex.ToString());
-                throw;
+                var alert = UIAlertController.Create("Error", ex.ToString(), UIAlertControllerStyle.Alert);
+                alert.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
+                var vc = new UIViewController();
+                Window.RootViewController = vc;
+                Window.MakeKeyAndVisible();
+                vc.PresentViewController(alert, true, null);
+                return true;
             }
-            return true;
         }
     }
 }

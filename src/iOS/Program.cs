@@ -20,6 +20,8 @@ namespace ZumasRevenge
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+            Window.MakeKeyAndVisible();
             try
             {
                 string bundlePath = NSBundle.MainBundle.BundlePath;
